@@ -105,38 +105,22 @@ def build_html(report: dict) -> str:
           {content}
         </div>"""
 
-    html = f"""<!DOCTYPE html>
-<html>
-<head><meta charset='utf-8'></head>
-<body style='margin:0;padding:0;background:#f4f6f9;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif'>
-  <div style='max-width:800px;margin:24px auto;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.08)'>
+    # Pre-compute all sections before the main HTML string
+    s_market = section(
+        'Market Context',
+        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('market_summary', ''))}</p>"
+        + (f"<p style='color:#555;font-size:13px;line-height:1.6'>{esc(report.get('macro_themes', ''))}</p>"
+           if report.get('macro_themes') else '')
+    )
 
-    <!-- Header -->
-    <div style='background:#1a1a2e;padding:20px 30px;color:#fff'>
-      <h1 style='margin:0;font-size:20px;font-weight:600'>Portfolio Advisory — {esc(date)}</h1>
-      <div style='margin-top:8px;font-size:13px;color:#adb5bd'>
-        NAV: <strong>${nav:,.2f}</strong> &nbsp;|&nbsp;
-        Holdings: <strong>${holdings:,.2f}</strong> &nbsp;|&nbsp;
-        Cash: <strong>${cash:,.2f}</strong> &nbsp;|&nbsp;
-        Week: <strong style='color:{week_color}'>{esc(week_ret_str)}</strong> &nbsp;|&nbsp;
-        vs S&amp;P 500: <strong>{esc(vs_sp500_str)}</strong>
-      </div>
-    </div>
+    s_health = section(
+        'Portfolio Health',
+        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('portfolio_health', ''))}</p>"
+    ) if report.get('portfolio_health') else ''
 
-    <!-- Body -->
-    <div style='padding:24px 30px'>
-
-      {section('Market Context',
-        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('market_summary',''))}</p>"
-        + (f"<p style='color:#555;font-size:13px;line-height:1.6'>{esc(report.get('macro_themes',''))}</p>" if report.get('macro_themes') else '')
-      )}
-
-      {section('Portfolio Health',
-        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('portfolio_health',''))}</p>"
-      ) if report.get('portfolio_health') else ''}
-
-      {section('Position Review', f"""
-        <table style='width:100%;border-collapse:collapse;font-size:13px'>
+    s_positions = section(
+        'Position Review',
+        f"""<table style='width:100%;border-collapse:collapse;font-size:13px'>
           <tr style='background:#f8f9fa'>
             <th style='padding:8px 10px;text-align:left'>Symbol</th>
             <th style='padding:8px 10px;text-align:right'>Value</th>
@@ -144,37 +128,49 @@ def build_html(report: dict) -> str:
             <th style='padding:8px 10px;text-align:center'>WHT</th>
             <th style='padding:8px 10px;text-align:center'>Action</th>
             <th style='padding:8px 10px;text-align:left'>Rationale</th>
-          </tr>
-          {position_rows}
-        </table>
-      """) if position_rows else ''}
+          </tr>{position_rows}</table>"""
+    ) if position_rows else ''
 
-      {section('Rebalancing',
-        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('rebalancing',''))}</p>"
-      ) if report.get('rebalancing') else ''}
+    s_rebalancing = section(
+        'Rebalancing',
+        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('rebalancing', ''))}</p>"
+    ) if report.get('rebalancing') else ''
 
-      {section('Cash Strategy',
-        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('cash_strategy',''))}</p>"
-      ) if report.get('cash_strategy') else ''}
+    s_cash = section(
+        'Cash Strategy',
+        f"<p style='color:#333;font-size:13px;line-height:1.6'>{esc(report.get('cash_strategy', ''))}</p>"
+    ) if report.get('cash_strategy') else ''
 
-      {section('New Opportunities',
+    s_opportunities = section(
+        'New Opportunities',
         f"<ul style='margin:0;padding-left:20px;color:#333;font-size:13px'>{opportunities_html}</ul>"
-      ) if opportunities_html else ''}
+    ) if opportunities_html else ''
 
-      {section('Action Items',
+    s_actions = section(
+        'Action Items',
         f"<ul style='margin:0;padding-left:20px;color:#333;font-size:13px'>{action_items_html}</ul>"
-      ) if action_items_html else ''}
+    ) if action_items_html else ''
 
-    </div>
-
-    <!-- Footer -->
-    <div style='background:#f8f9fa;padding:12px 30px;font-size:11px;color:#888;border-top:1px solid #e9ecef'>
-      Generated {esc(date)} | Portfolio Advisor | Advisory only — does not execute trades
-    </div>
-
-  </div>
-</body>
-</html>"""
+    html = (
+        "<!DOCTYPE html><html><head><meta charset='utf-8'></head>"
+        "<body style='margin:0;padding:0;background:#f4f6f9;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif'>"
+        "<div style='max-width:800px;margin:24px auto;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.08)'>"
+        f"<div style='background:#1a1a2e;padding:20px 30px;color:#fff'>"
+        f"<h1 style='margin:0;font-size:20px;font-weight:600'>Portfolio Advisory \u2014 {esc(date)}</h1>"
+        f"<div style='margin-top:8px;font-size:13px;color:#adb5bd'>"
+        f"NAV: <strong>${nav:,.2f}</strong> &nbsp;|&nbsp;"
+        f"Holdings: <strong>${holdings:,.2f}</strong> &nbsp;|&nbsp;"
+        f"Cash: <strong>${cash:,.2f}</strong> &nbsp;|&nbsp;"
+        f"Week: <strong style='color:{week_color}'>{esc(week_ret_str)}</strong> &nbsp;|&nbsp;"
+        f"vs S&amp;P 500: <strong>{esc(vs_sp500_str)}</strong>"
+        "</div></div>"
+        f"<div style='padding:24px 30px'>"
+        f"{s_market}{s_health}{s_positions}{s_rebalancing}{s_cash}{s_opportunities}{s_actions}"
+        "</div>"
+        f"<div style='background:#f8f9fa;padding:12px 30px;font-size:11px;color:#888;border-top:1px solid #e9ecef'>"
+        f"Generated {esc(date)} | Portfolio Advisor | Advisory only \u2014 does not execute trades"
+        "</div></div></body></html>"
+    )
 
     return html
 
