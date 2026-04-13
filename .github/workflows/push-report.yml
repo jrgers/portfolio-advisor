@@ -2,6 +2,8 @@ name: Push Report to Notion
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'weekly_report.json'   # Triggered when the Claude agent commits the report
   workflow_dispatch:            # Allow manual trigger for testing
