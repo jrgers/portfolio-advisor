@@ -201,7 +201,7 @@ def main():
         report = json.load(f)
 
     report_date = report.get("report_date", "Unknown date")
-    page_title = f"Weekly Report — {report_date}"
+    page_title = f"Portfolio Advisory — {report_date}"
     print(f"Creating Notion page: {page_title}")
 
     blocks = build_blocks(report)
