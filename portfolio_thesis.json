@@ -90,17 +90,6 @@
         "Better WHT-efficient fixed income vehicle identified",
         "Portfolio grows large enough that cash drag justifies full equity deployment"
       ]
-    },
-    {
-      "symbol": "GS",
-      "name": "Goldman Sachs Group Inc",
-      "buy_date": null,
-      "structure": "US equity, dividend payer",
-      "wht_exposure": "30% WHT on dividends",
-      "thesis": "LEGACY — position held from prior portfolio, not part of the optimized structure. Was targeted for exit in Step 2 optimization but not executed. Dividend subject to 30% WHT. No strong conviction thesis for adding.",
-      "invalidation_conditions": [
-        "N/A — exit decision pending. Confirm sell or document conscious hold rationale."
-      ]
     }
   ]
 }
