@@ -1,0 +1,29 @@
+name: Push Report to Notion
+
+on:
+  push:
+    paths:
+      - 'weekly_report.json'   # Triggered when the Claude agent commits the report
+  workflow_dispatch:            # Allow manual trigger for testing
+
+permissions:
+  contents: read
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Push report to Notion
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python push_to_notion.py

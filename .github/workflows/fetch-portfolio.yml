@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: '0 4 * * 0'  # Every Sunday 4 AM UTC (7 AM Beirut) — 1hr before Claude reads it
   workflow_dispatch:      # Allow manual trigger for testing
-  
+
 permissions:
   contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -28,10 +29,17 @@ jobs:
           IBKR_FLEX_VERSION: ${{ secrets.IBKR_FLEX_VERSION }}
         run: python fetch_ibkr_portfolio.py
 
-      - name: Commit portfolio XML
+      - name: Fetch Notion history
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          NOTION_HISTORY_COUNT: '4'
+        run: python fetch_notion_history.py
+
+      - name: Commit data files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ibkr_portfolio.xml
-          git diff --staged --quiet || git commit -m "chore: update portfolio snapshot [skip ci]"
+          git add ibkr_portfolio.xml notion_history.json
+          git diff --staged --quiet || git commit -m "chore: update portfolio snapshot + notion history [skip ci]"
           git push
