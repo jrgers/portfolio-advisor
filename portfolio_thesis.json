@@ -1,0 +1,106 @@
+{
+  "last_updated": "2026-04-13",
+  "positions": [
+    {
+      "symbol": "CSPX",
+      "name": "iShares Core S&P 500 UCITS ETF (Acc)",
+      "buy_date": "2026-04-01",
+      "structure": "IE-domiciled accumulating ETF",
+      "wht_exposure": "0%",
+      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions. Held as the portfolio anchor — largest position by design.",
+      "invalidation_conditions": [
+        "Structural shift away from US equities as the dominant long-term growth engine",
+        "A superior WHT-efficient broad market vehicle becomes available"
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "buy_date": "2026-04-01",
+      "structure": "US equity, no dividend",
+      "wht_exposure": "0% (no dividend)",
+      "thesis": "Conviction dip buy entered just before/during Liberation Day tariff announcement. Core thesis: AWS dominance, advertising growth, and AI infrastructure spend make AMZN a compounder. No dividend means no WHT drag.",
+      "invalidation_conditions": [
+        "AWS loses meaningful cloud market share to Azure or GCP",
+        "Regulatory breakup that separates AWS from retail",
+        "Sustained margin compression across all segments"
+      ]
+    },
+    {
+      "symbol": "GLD",
+      "name": "SPDR Gold Shares",
+      "buy_date": null,
+      "structure": "US-domiciled gold ETF",
+      "wht_exposure": "0% (no dividend)",
+      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so no WHT exposure. Held as a portfolio stabilizer.",
+      "invalidation_conditions": [
+        "Sustained USD strengthening cycle driven by structurally higher real rates",
+        "Major reversal in central bank gold buying trend",
+        "Risk-off environment resolves and portfolio needs redeployment into equities"
+      ]
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Inc",
+      "buy_date": "2026-04-01",
+      "structure": "US equity, minimal dividend",
+      "wht_exposure": "Low — dividend yield <1%, WHT impact negligible",
+      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network with near-monopoly duopoly economics, asset-light model, global consumer spending exposure, pricing power. Dividend yield too small to materially erode returns via WHT.",
+      "invalidation_conditions": [
+        "Disintermediation by real-time payment rails (e.g. FedNow, open banking) at scale",
+        "Regulatory caps on interchange fees in core markets",
+        "Sustained global consumer spending contraction"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "buy_date": null,
+      "structure": "US equity, minimal dividend",
+      "wht_exposure": "0% (dividend yield negligible)",
+      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware. CUDA ecosystem creates high switching costs. Hold position — thesis intact as long as AI capex cycle continues.",
+      "invalidation_conditions": [
+        "AMD or custom silicon (Google TPU, Amazon Trainium) takes meaningful share in AI training",
+        "AI capex cycle reverses — hyperscalers cut infrastructure spend",
+        "Export restrictions to China materially impact revenue beyond current guidance"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "buy_date": null,
+      "structure": "Dutch equity (AMS listed), minimal dividend",
+      "wht_exposure": "15% Dutch WHT (treaty rate, not 30%)",
+      "thesis": "Monopoly supplier of EUV lithography machines — no competitor exists. Every leading-edge chip fab (TSMC, Samsung, Intel) depends on ASML. Only non-US equity in the portfolio. Target: build to ~6% of NAV. 15% WHT acceptable given monopoly quality.",
+      "invalidation_conditions": [
+        "China develops a credible domestic EUV alternative (long-dated risk, 5-10 year horizon)",
+        "Semiconductor capex supercycle ends and fab customers cancel/delay orders at scale",
+        "Dutch government export restrictions beyond current ASML guidance"
+      ]
+    },
+    {
+      "symbol": "U03A",
+      "name": "iShares USD Treasury Bond 0-3 Month UCITS ETF (Acc)",
+      "buy_date": "2026-04-03",
+      "structure": "IE-domiciled accumulating ETF",
+      "wht_exposure": "0% (portfolio interest exemption via Irish fund)",
+      "thesis": "Cash equivalent / capital preservation layer. Replaces SGOV which carried 30% WHT on distributions. US Treasury interest paid to Irish fund is exempt from NRA withholding under the portfolio interest exemption — 0% effective WHT vs 30% on SGOV. Near-zero duration risk (0-3M).",
+      "invalidation_conditions": [
+        "Fed cuts rates aggressively — opportunity cost of holding cash equivalent rises",
+        "Better WHT-efficient fixed income vehicle identified",
+        "Portfolio grows large enough that cash drag justifies full equity deployment"
+      ]
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group Inc",
+      "buy_date": null,
+      "structure": "US equity, dividend payer",
+      "wht_exposure": "30% WHT on dividends",
+      "thesis": "LEGACY — position held from prior portfolio, not part of the optimized structure. Was targeted for exit in Step 2 optimization but not executed. Dividend subject to 30% WHT. No strong conviction thesis for adding.",
+      "invalidation_conditions": [
+        "N/A — exit decision pending. Confirm sell or document conscious hold rationale."
+      ]
+    }
+  ]
+}
