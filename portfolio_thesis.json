@@ -7,10 +7,10 @@
       "buy_date": "2026-04-01",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0%",
-      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — the structurally optimal S&P 500 vehicle for a Lebanese NRA investor. Held as the portfolio anchor, targeting 36% of NAV. Currently underweight at ~29.35%; a $250 ADD has been recommended for two consecutive weeks (April 11 and April 13) and remains unexecuted — this is the portfolio's highest-priority open action item.",
+      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions. Held as the portfolio anchor — largest position by design.",
       "invalidation_conditions": [
         "Structural shift away from US equities as the dominant long-term growth engine",
-        "A superior WHT-efficient broad market vehicle becomes available (e.g., VUAA on a more liquid exchange)"
+        "A superior WHT-efficient broad market vehicle becomes available"
       ]
     },
     {
@@ -19,24 +19,24 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, no dividend",
       "wht_exposure": "0% (no dividend)",
-      "thesis": "Conviction dip buy entered during Liberation Day tariff volatility. Core thesis: AWS dominance (cloud market share leadership), advertising revenue flywheel, and AI infrastructure spend (Bedrock, Trainium) make AMZN a compounding platform business. No dividend means no WHT drag whatsoever. Leading portfolio performer at +11.4% unrealized as of April 10. Thesis remains at full conviction.",
+      "thesis": "Conviction dip buy entered just before/during Liberation Day tariff announcement. Core thesis: AWS dominance, advertising growth, and AI infrastructure spend make AMZN a compounder. No dividend means no WHT drag.",
       "invalidation_conditions": [
-        "AWS loses meaningful cloud market share to Azure or GCP over 2+ consecutive quarters",
-        "Regulatory breakup that separates AWS from retail operations",
-        "Sustained margin compression across all segments simultaneously"
+        "AWS loses meaningful cloud market share to Azure or GCP",
+        "Regulatory breakup that separates AWS from retail",
+        "Sustained margin compression across all segments"
       ]
     },
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
       "buy_date": null,
-      "structure": "US-domiciled gold ETF, physical gold backing",
-      "wht_exposure": "0% (no dividend, no distributions)",
-      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so no WHT exposure despite US domicile. Held as a portfolio stabilizer — performing as expected (+2.2% unrealized) in the post-Liberation Day tariff uncertainty environment. Central bank gold buying trend intact globally.",
+      "structure": "US-domiciled gold ETF",
+      "wht_exposure": "0% (no dividend)",
+      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so no WHT exposure. Held as a portfolio stabilizer.",
       "invalidation_conditions": [
-        "Sustained USD strengthening driven by structurally higher real interest rates (not the current environment)",
+        "Sustained USD strengthening cycle driven by structurally higher real rates",
         "Major reversal in central bank gold buying trend",
-        "Risk-off environment fully resolves and portfolio needs redeployment into higher-conviction equities"
+        "Risk-off environment resolves and portfolio needs redeployment into equities"
       ]
     },
     {
@@ -44,12 +44,12 @@
       "name": "Mastercard Inc",
       "buy_date": "2026-04-01",
       "structure": "US equity, minimal dividend",
-      "wht_exposure": "30% on dividend. Confirmed April 2026: $0.73 gross dividend, $0.22 withheld (30.1% effective rate). WHT drag ~$1/year at current position size (~$356) — immaterial.",
-      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network with near-monopoly duopoly economics (with Visa), asset-light model, global consumer spending exposure, and pricing power insulated from credit cycle risk. Currently -2.8% unrealized — a macro-driven correction, not a thesis failure. Dividend WHT confirmed at 30% as expected for US NRA investor; actual drag is negligible at this position size. Candidate for Tranche 3 deployment ($100 additional) if S&P 500 drops 5-7%.",
+      "wht_exposure": "Low — dividend yield <1%, WHT impact negligible",
+      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network with near-monopoly duopoly economics, asset-light model, global consumer spending exposure, pricing power. Dividend yield too small to materially erode returns via WHT.",
       "invalidation_conditions": [
-        "Disintermediation by real-time payment rails (FedNow, open banking) achieves scale adoption displacing card networks",
-        "Regulatory caps on interchange fees implemented in core markets (US, EU)",
-        "Sustained global consumer spending contraction lasting more than two quarters"
+        "Disintermediation by real-time payment rails (e.g. FedNow, open banking) at scale",
+        "Regulatory caps on interchange fees in core markets",
+        "Sustained global consumer spending contraction"
       ]
     },
     {
@@ -57,25 +57,25 @@
       "name": "NVIDIA Corporation",
       "buy_date": null,
       "structure": "US equity, minimal dividend",
-      "wht_exposure": "0% (dividend yield <0.1%, negligible WHT impact)",
-      "thesis": "AI infrastructure buildout driving unprecedented GPU demand cycle. NVDA holds dominant position in AI training and inference hardware. CUDA ecosystem creates deep switching costs for hyperscalers and research institutions. Positioned as the picks-and-shovels play on the AI capex supercycle. +3.7% unrealized as of April 10. Thesis intact as long as AI infrastructure capex cycle continues.",
+      "wht_exposure": "0% (dividend yield negligible)",
+      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware. CUDA ecosystem creates high switching costs. Hold position — thesis intact as long as AI capex cycle continues.",
       "invalidation_conditions": [
-        "AMD or custom silicon (Google TPU, Amazon Trainium) takes meaningful, measurable share in AI training workloads over 2+ quarters",
-        "AI capex cycle reverses — hyperscalers (MSFT, GOOGL, AMZN, META) materially cut infrastructure spend",
-        "Export restrictions to China impact revenue materially beyond current guidance (watch BIS rules)"
+        "AMD or custom silicon (Google TPU, Amazon Trainium) takes meaningful share in AI training",
+        "AI capex cycle reverses — hyperscalers cut infrastructure spend",
+        "Export restrictions to China materially impact revenue beyond current guidance"
       ]
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "buy_date": null,
-      "structure": "Dutch equity — held as NY Reg Shs on NASDAQ (NOT Euronext Amsterdam). Minimal dividend (~1% yield).",
-      "wht_exposure": "FLAG: Thesis assumes 15% Dutch WHT (treaty rate). However, holding is NY Reg Shs (NASDAQ-listed). Lebanese NRA investors have no US tax treaty, meaning US may withhold at 30% NRA rate rather than 15% Dutch treaty rate. Verify IBKR withholding rate on next dividend payment. If 30% is confirmed, evaluate switching to Euronext Amsterdam listing to eliminate US NRA withholding. At current position size ($257) and ~1% yield, maximum annual WHT cost is under $1 — not material enough for immediate action, but must be monitored.",
-      "thesis": "Monopoly supplier of EUV lithography machines — no competitor exists at the leading edge. Every advanced chip fab (TSMC, Samsung, Intel) depends entirely on ASML for sub-7nm production. Pricing power, multi-year order backlog, and inelastic demand from the semiconductor industry create an exceptional quality moat. The 15% Dutch WHT (per thesis assumption) is acceptable for a name of this quality. Target: maintain ~6% of NAV. Conviction unchanged. HOWEVER: verify WHT structure — if US is applying 30% WHT on the NY Reg Shs dividend, the Euronext Amsterdam listing (ASML.AS or equivalent) should be considered as an alternative to eliminate US NRA withholding.",
+      "structure": "Dutch equity (AMS listed), minimal dividend",
+      "wht_exposure": "15% Dutch WHT (treaty rate, not 30%)",
+      "thesis": "Monopoly supplier of EUV lithography machines — no competitor exists. Every leading-edge chip fab (TSMC, Samsung, Intel) depends on ASML. Only non-US equity in the portfolio. Target: build to ~6% of NAV. 15% WHT acceptable given monopoly quality.",
       "invalidation_conditions": [
-        "China develops a credible domestic EUV alternative (5-10 year horizon risk, not imminent)",
-        "Semiconductor capex supercycle ends and fab customers cancel or materially delay orders at scale",
-        "Dutch government export restrictions go materially beyond current ASML guidance and impact backlog"
+        "China develops a credible domestic EUV alternative (long-dated risk, 5-10 year horizon)",
+        "Semiconductor capex supercycle ends and fab customers cancel/delay orders at scale",
+        "Dutch government export restrictions beyond current ASML guidance"
       ]
     },
     {
@@ -83,12 +83,23 @@
       "name": "iShares USD Treasury Bond 0-3 Month UCITS ETF (Acc)",
       "buy_date": "2026-04-03",
       "structure": "IE-domiciled accumulating ETF",
-      "wht_exposure": "0% (portfolio interest exemption via Irish fund structure — US Treasury interest paid to Irish fund exempt from NRA withholding)",
-      "thesis": "Cash equivalent and capital preservation layer. Replaced SGOV (which carried 30% WHT on distributions) — this is the WHT-efficient alternative for a Lebanese NRA. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption under IRC Section 871(h), resulting in 0% effective WHT vs 30% on a US-domiciled equivalent. Near-zero duration (0-3M) eliminates interest rate risk. Minor mark-to-market loss (-1.3%) is noise, not signal. Serving dual function: (1) earning T-bill yield on idle cash, (2) Tranche 3 dry powder reserve for equity deployment.",
+      "wht_exposure": "0% (portfolio interest exemption via Irish fund)",
+      "thesis": "Cash equivalent / capital preservation layer. Replaces SGOV which carried 30% WHT on distributions. US Treasury interest paid to Irish fund is exempt from NRA withholding under the portfolio interest exemption — 0% effective WHT vs 30% on SGOV. Near-zero duration risk (0-3M).",
       "invalidation_conditions": [
-        "Fed cuts rates aggressively, materially reducing T-bill yield — opportunity cost of holding cash equivalent rises",
-        "A better WHT-efficient fixed income vehicle is identified for this investor structure",
-        "Portfolio grows large enough that the cash drag from any FI allocation justifies full equity deployment"
+        "Fed cuts rates aggressively — opportunity cost of holding cash equivalent rises",
+        "Better WHT-efficient fixed income vehicle identified",
+        "Portfolio grows large enough that cash drag justifies full equity deployment"
+      ]
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group Inc",
+      "buy_date": null,
+      "structure": "US equity, dividend payer",
+      "wht_exposure": "30% WHT on dividends",
+      "thesis": "LEGACY — position held from prior portfolio, not part of the optimized structure. Was targeted for exit in Step 2 optimization but not executed. Dividend subject to 30% WHT. No strong conviction thesis for adding.",
+      "invalidation_conditions": [
+        "N/A — exit decision pending. Confirm sell or document conscious hold rationale."
       ]
     }
   ]
