@@ -1,9 +1,15 @@
 """
 Fetch the last N weekly portfolio reports from Notion and save as notion_history.json.
 
+Mirrors the "Get a database page" + "HTTP Request3" nodes in Portfolio Advisor v2:
+- Queries the Weekly Reports database sorted by created_time descending
+- For each page, fetches its block children (the report content)
+- Extracts properties: title, Date, NAV, Week Change %
+
 Environment variables required:
     NOTION_TOKEN         — Notion integration token (secret)
-    NOTION_DATABASE_ID   — ID of the Weekly Reports database
+    NOTION_DATABASE_ID   — Weekly Reports database ID
+                           (731dec98-92e8-465b-960d-16b565e32033)
     NOTION_HISTORY_COUNT — Number of past reports to fetch (default: 4)
 """
 
@@ -48,28 +54,59 @@ def notion_request(method: str, path: str, token: str, body: dict | None = None)
         sys.exit(1)
 
 
-def fetch_page_text(page_id: str, token: str) -> str:
-    """Fetch all block content from a page and return as plain text."""
-    blocks = []
+def extract_rich_text(prop: dict) -> str:
+    """Extract plain text from a rich_text or title property."""
+    rich = prop.get("rich_text") or prop.get("title") or []
+    return "".join(r.get("plain_text", "") for r in rich)
+
+
+def extract_properties(props: dict) -> dict:
+    """Extract the known database properties from a page."""
+    result = {}
+
+    for key, prop in props.items():
+        ptype = prop.get("type")
+
+        if ptype == "title":
+            result["title"] = extract_rich_text(prop)
+
+        elif ptype == "rich_text":
+            # NAV, Week Change %, or any other rich_text field
+            result[key] = extract_rich_text(prop)
+
+        elif ptype == "date":
+            date_val = prop.get("date") or {}
+            result[key] = date_val.get("start", "")
+
+    return result
+
+
+def fetch_page_blocks(page_id: str, token: str) -> str:
+    """
+    Fetch all block children for a page and return as plain text.
+    Mirrors n8n's HTTP Request3: GET /blocks/{id}/children?page_size=100
+    """
+    lines = []
     cursor = None
+
     while True:
         path = f"/blocks/{page_id}/children?page_size=100"
         if cursor:
             path += f"&start_cursor={cursor}"
+
         result = notion_request("GET", path, token)
-        blocks.extend(result.get("results", []))
+
+        for block in result.get("results", []):
+            btype = block.get("type", "")
+            content = block.get(btype, {})
+            rich = content.get("rich_text", [])
+            text = "".join(r.get("plain_text", "") for r in rich)
+            if text:
+                lines.append(text)
+
         if not result.get("has_more"):
             break
         cursor = result.get("next_cursor")
-
-    lines = []
-    for block in blocks:
-        btype = block.get("type", "")
-        content = block.get(btype, {})
-        rich = content.get("rich_text", [])
-        text = "".join(r.get("plain_text", "") for r in rich)
-        if text:
-            lines.append(text)
 
     return "\n".join(lines)
 
@@ -79,14 +116,20 @@ def main():
     database_id = get_env("NOTION_DATABASE_ID")
     count = int(get_env("NOTION_HISTORY_COUNT", "4"))
 
-    print(f"Querying Notion database {database_id} for last {count} reports...")
+    print(f"Querying Notion database {database_id} for last {count} report(s)...")
 
+    # Mirror "Get a database page" node: getAll, sort created_time desc, limit N
     result = notion_request(
         "POST",
         f"/databases/{database_id}/query",
         token,
         {
-            "sorts": [{"timestamp": "created_time", "direction": "descending"}],
+            "sorts": [
+                {
+                    "timestamp": "created_time",
+                    "direction": "descending",
+                }
+            ],
             "page_size": count,
         },
     )
@@ -97,24 +140,23 @@ def main():
     history = []
     for page in pages:
         page_id = page["id"]
-        props = page.get("properties", {})
-
-        # Extract title — look for a property of type title
-        title = ""
-        for prop in props.values():
-            if prop.get("type") == "title":
-                rich = prop.get("title", [])
-                title = "".join(r.get("plain_text", "") for r in rich)
-                break
-
         created = page.get("created_time", "")[:10]  # YYYY-MM-DD
 
-        print(f"  Fetching page: {title or page_id} ({created})")
-        content = fetch_page_text(page_id, token)
+        # Extract structured properties (title, Date, NAV, Week Change %)
+        props = extract_properties(page.get("properties", {}))
+        title = props.get("title", f"Report {created}")
+
+        print(f"  Fetching blocks for: {title} ({created})")
+
+        # Mirror HTTP Request3: GET /blocks/{page.id}/children?page_size=100
+        content = fetch_page_blocks(page_id, token)
 
         history.append({
-            "date": created,
             "title": title,
+            "date": props.get("Date", created),
+            "nav": props.get("NAV", ""),
+            "week_change": props.get("Week Change %", ""),
+            "created_time": created,
             "content": content,
         })
 

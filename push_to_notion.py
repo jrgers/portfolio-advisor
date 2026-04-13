@@ -209,6 +209,28 @@ def main():
     # Notion API limits children to 100 blocks per request — split if needed
     MAX_BLOCKS_PER_REQUEST = 100
 
+    # Build page properties — mirrors "Create a database page1" node fields:
+    # title, Date (date), NAV (rich_text), Week Change % (rich_text)
+    nav_str = f"${report.get('portfolio_nav', 0):,.2f}"
+
+    week_ret = report.get("week_return_pct")
+    week_change_str = f"{week_ret:+.2f}%" if week_ret is not None else "N/A"
+
+    properties = {
+        "Name": {
+            "title": [{"type": "text", "text": {"content": page_title}}]
+        },
+        "Date": {
+            "date": {"start": report_date}
+        },
+        "NAV": {
+            "rich_text": [{"type": "text", "text": {"content": nav_str}}]
+        },
+        "Week Change %": {
+            "rich_text": [{"type": "text", "text": {"content": week_change_str}}]
+        },
+    }
+
     # Create the page with the first batch of blocks
     first_batch = blocks[:MAX_BLOCKS_PER_REQUEST]
     page = notion_request(
@@ -217,11 +239,7 @@ def main():
         token,
         {
             "parent": {"database_id": database_id},
-            "properties": {
-                "Name": {
-                    "title": [{"type": "text", "text": {"content": page_title}}]
-                }
-            },
+            "properties": properties,
             "children": first_batch,
         },
     )
