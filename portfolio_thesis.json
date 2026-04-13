@@ -7,7 +7,7 @@
       "buy_date": "2026-04-01",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0%",
-      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions. Held as the portfolio anchor — largest position by design.",
+      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Held as the portfolio anchor — largest position by design, targeting 36% of NAV. Currently underweight at 29.35%; $250 ADD is overdue (recommended April 11, unexecuted). Post-trade target weight: ~31.4%, with full gap closure to 36% via Tranche 3 deployment.",
       "invalidation_conditions": [
         "Structural shift away from US equities as the dominant long-term growth engine",
         "A superior WHT-efficient broad market vehicle becomes available"
@@ -19,11 +19,11 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, no dividend",
       "wht_exposure": "0% (no dividend)",
-      "thesis": "Conviction dip buy entered just before/during Liberation Day tariff announcement. Core thesis: AWS dominance, advertising growth, and AI infrastructure spend make AMZN a compounder. No dividend means no WHT drag.",
+      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share), advertising revenue growing at double-digits, and AI infrastructure investment (Bedrock, Trainium custom silicon) make AMZN a compounding platform business. Tariff risk is concentrated in retail/logistics; AWS as a domestic cloud business is materially insulated from import tariff exposure. No dividend means 0% WHT. Currently up +11.42% from entry — the portfolio's leading performer. Portfolio is up 11.4% on cost while AMZN is down ~7.5% YTD from 2026 highs, confirming the entry quality.",
       "invalidation_conditions": [
-        "AWS loses meaningful cloud market share to Azure or GCP",
-        "Regulatory breakup that separates AWS from retail",
-        "Sustained margin compression across all segments"
+        "AWS loses meaningful cloud market share to Azure or GCP on a sustained basis",
+        "Regulatory breakup that separates AWS from the retail/advertising business",
+        "Sustained margin compression across all segments (retail, advertising, AND cloud simultaneously)"
       ]
     },
     {
@@ -31,12 +31,12 @@
       "name": "SPDR Gold Shares",
       "buy_date": null,
       "structure": "US-domiciled gold ETF",
-      "wht_exposure": "0% (no dividend)",
-      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so no WHT exposure. Held as a portfolio stabilizer.",
+      "wht_exposure": "0% (no income distributions)",
+      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. Held as a portfolio stabilizer and return enhancer. Up +53% on a trailing 12-month basis — the YTD asset class leader. April 7 ceasefire may reduce the near-term geopolitical safe-haven bid but structural gold drivers remain intact: central bank gold accumulation at multi-decade highs, weaponisation of USD reserves driving non-US central banks to diversify, US debt trajectory, and real rates below long-run equilibrium.",
       "invalidation_conditions": [
-        "Sustained USD strengthening cycle driven by structurally higher real rates",
-        "Major reversal in central bank gold buying trend",
-        "Risk-off environment resolves and portfolio needs redeployment into equities"
+        "Sustained USD strengthening cycle driven by structurally higher real rates that persist above inflation",
+        "Major reversal in central bank gold buying trend (multiple major central banks becoming net sellers)",
+        "Risk-off environment fully resolves AND portfolio has better risk-adjusted deployment opportunity in equities"
       ]
     },
     {
@@ -44,38 +44,39 @@
       "name": "Mastercard Inc",
       "buy_date": "2026-04-01",
       "structure": "US equity, minimal dividend",
-      "wht_exposure": "Low — dividend yield <1%, WHT impact negligible",
-      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network with near-monopoly duopoly economics, asset-light model, global consumer spending exposure, pricing power. Dividend yield too small to materially erode returns via WHT.",
+      "wht_exposure": "30% WHT on dividend — confirmed $0.22 withheld on $0.73 April dividend. Annualised WHT drag <$1 at current position size. Immaterial.",
+      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. Currently -2.84% from entry — weakness is macro-driven (tariff uncertainty, consumer sentiment softness) not a thesis breakdown. Dividend yield <1% means WHT drag is under $1/year at current size. Designated Tranche 3 co-target alongside CSPX if S&P drops an additional 5-7% — averaging down would materially improve cost basis.",
       "invalidation_conditions": [
-        "Disintermediation by real-time payment rails (e.g. FedNow, open banking) at scale",
-        "Regulatory caps on interchange fees in core markets",
-        "Sustained global consumer spending contraction"
+        "Disintermediation by real-time payment rails (FedNow, open banking) gaining scale at the expense of card networks",
+        "Regulatory caps on interchange fees in core US or European markets",
+        "Sustained global consumer spending contraction lasting multiple quarters"
       ]
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
       "buy_date": null,
-      "structure": "US equity, minimal dividend",
-      "wht_exposure": "0% (dividend yield negligible)",
-      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware. CUDA ecosystem creates high switching costs. Hold position — thesis intact as long as AI capex cycle continues.",
+      "structure": "US equity, negligible dividend",
+      "wht_exposure": "0% (dividend yield <0.1%, negligible WHT impact)",
+      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs that no competitor has credibly overcome at scale. H100/B200 upgrade cycle is intact. Currently +3.66% from entry but underperforming Nasdaq peers — index +4.1% vs NVDA +1% this week signals relative momentum weakness. Key risk: China export restrictions and growing investor scrutiny of hyperscaler AI capex sustainability. Thesis requires monitoring Q1 earnings commentary from major hyperscalers (AMZN, MSFT, GOOGL) on AI infrastructure spend trajectory. Hold conviction; do not add until technical momentum resumes.",
       "invalidation_conditions": [
-        "AMD or custom silicon (Google TPU, Amazon Trainium) takes meaningful share in AI training",
-        "AI capex cycle reverses — hyperscalers cut infrastructure spend",
-        "Export restrictions to China materially impact revenue beyond current guidance"
+        "AMD or custom silicon (Google TPU, Amazon Trainium, Microsoft Maia) takes meaningful and sustained share in AI training workloads",
+        "AI capex cycle reverses — hyperscalers visibly cut or guide down infrastructure spend across multiple quarters",
+        "Export restrictions to China expand materially beyond current guidance, reducing total addressable market by >15%"
       ]
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
       "buy_date": null,
-      "structure": "Dutch equity (AMS listed), minimal dividend",
-      "wht_exposure": "15% Dutch WHT (treaty rate, not 30%)",
-      "thesis": "Monopoly supplier of EUV lithography machines — no competitor exists. Every leading-edge chip fab (TSMC, Samsung, Intel) depends on ASML. Only non-US equity in the portfolio. Target: build to ~6% of NAV. 15% WHT acceptable given monopoly quality.",
+      "structure": "Dutch equity (NASDAQ-listed NY Reg Shs)",
+      "wht_exposure": "15% Dutch WHT assumed (treaty rate). ACTION REQUIRED: verify on next IBKR tax document whether 15% (NL treaty) or 30% (US NRA flat) is actually being applied. If 30%, evaluate switching to AMS-listed shares to eliminate US NRA withholding.",
+      "thesis": "Monopoly supplier of EUV lithography systems — no credible competitor exists for leading-edge chip manufacturing. Every advanced fab (TSMC, Samsung, Intel) is ASML-dependent for sub-7nm production. Currently +22% YTD and +5.81% from entry — portfolio's strongest risk-adjusted performer. Q1 2026 earnings on April 15 are the key near-term catalyst: consensus EUR 10.21B revenue / EUR 7.72 EPS. TSMC strong Q1 results (reported this week) are a positive read-through for ASML order visibility. A beat with intact 2026/2027 order guidance would strongly reinforce the thesis. A guidance cut on EUV orders would be a thesis-level event triggering a position review.",
       "invalidation_conditions": [
-        "China develops a credible domestic EUV alternative (long-dated risk, 5-10 year horizon)",
-        "Semiconductor capex supercycle ends and fab customers cancel/delay orders at scale",
-        "Dutch government export restrictions beyond current ASML guidance"
+        "China develops a credible domestic EUV alternative — assessed as a 5-10 year horizon risk, not near-term",
+        "Semiconductor capex supercycle ends and fab customers cancel or significantly delay EUV orders at scale",
+        "Dutch government export restrictions expand materially beyond current ASML guidance",
+        "Q1 2026 earnings guidance cut: EUV order intake falls materially below 2025 run-rate"
       ]
     },
     {
@@ -84,22 +85,11 @@
       "buy_date": "2026-04-03",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0% (portfolio interest exemption via Irish fund)",
-      "thesis": "Cash equivalent / capital preservation layer. Replaces SGOV which carried 30% WHT on distributions. US Treasury interest paid to Irish fund is exempt from NRA withholding under the portfolio interest exemption — 0% effective WHT vs 30% on SGOV. Near-zero duration risk (0-3M).",
+      "thesis": "Cash equivalent / capital preservation layer yielding ~4%+ T-bill rate with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — a materially superior structure for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). Marginally overweight at 16.28% vs. 15% target — within tolerance. As the Fed approaches its rate cut cycle, opportunity cost of holding a cash equivalent rises; flag for gradual trimming over subsequent rebalancing passes.",
       "invalidation_conditions": [
-        "Fed cuts rates aggressively — opportunity cost of holding cash equivalent rises",
-        "Better WHT-efficient fixed income vehicle identified",
-        "Portfolio grows large enough that cash drag justifies full equity deployment"
-      ]
-    },
-    {
-      "symbol": "GS",
-      "name": "Goldman Sachs Group Inc",
-      "buy_date": null,
-      "structure": "US equity, dividend payer",
-      "wht_exposure": "30% WHT on dividends",
-      "thesis": "LEGACY — position held from prior portfolio, not part of the optimized structure. Was targeted for exit in Step 2 optimization but not executed. Dividend subject to 30% WHT. No strong conviction thesis for adding.",
-      "invalidation_conditions": [
-        "N/A — exit decision pending. Confirm sell or document conscious hold rationale."
+        "Fed cuts rates aggressively (>100bps) — opportunity cost of T-bill equivalent rises significantly vs equities",
+        "A better WHT-efficient fixed income vehicle with superior risk-adjusted return is identified",
+        "Portfolio NAV grows large enough (>$10K) that maintaining a 15% cash equivalent layer imposes unacceptable drag on long-term returns"
       ]
     }
   ]
