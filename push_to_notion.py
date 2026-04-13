@@ -209,6 +209,15 @@ def main():
     # Notion API limits children to 100 blocks per request — split if needed
     MAX_BLOCKS_PER_REQUEST = 100
 
+    # Fetch database schema to find the actual title property name
+    db = notion_request("GET", f"/databases/{database_id}", token)
+    title_prop_name = "Name"  # fallback
+    for prop_name, prop_def in db.get("properties", {}).items():
+        if prop_def.get("type") == "title":
+            title_prop_name = prop_name
+            break
+    print(f"Title property name: {title_prop_name}")
+
     # Build page properties — mirrors "Create a database page1" node fields:
     # title, Date (date), NAV (rich_text), Week Change % (rich_text)
     nav_str = f"${report.get('portfolio_nav', 0):,.2f}"
@@ -217,7 +226,7 @@ def main():
     week_change_str = f"{week_ret:+.2f}%" if week_ret is not None else "N/A"
 
     properties = {
-        "Name": {
+        title_prop_name: {
             "title": [{"type": "text", "text": {"content": page_title}}]
         },
         "Date": {
