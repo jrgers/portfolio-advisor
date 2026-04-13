@@ -1,0 +1,29 @@
+name: Merge Agent Branch to Main
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+    paths:
+      - 'weekly_report.json'
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Merge agent branch into main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git merge --no-ff origin/${{ github.ref_name }} -m "chore: merge agent report into main [skip ci]"
+          git push origin main
