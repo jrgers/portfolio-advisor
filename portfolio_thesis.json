@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13",
+  "last_updated": "2026-04-15",
   "positions": [
     {
       "symbol": "CSPX",
@@ -7,7 +7,7 @@
       "buy_date": "2026-04-01",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0%",
-      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Held as the portfolio anchor — largest position by design, targeting 36% of NAV. Currently underweight at 29.35%; $250 ADD is overdue (recommended April 11, unexecuted). Post-trade target weight: ~31.4%, with full gap closure to 36% via Tranche 3 deployment.",
+      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Held as the portfolio anchor targeting 36% of NAV. Currently severely underweight at 25.49% of NAV (1.4745 shares, avg cost $706.41). The $250 ADD trade recommended April 11 and again April 13 is 4 days unexecuted as of this report. Post-execution target: approximately 31.4% of NAV. Tranche 3 deployment (May 3 deadline) will bring position closer to 36% target. S&P 500 up approximately 8% from March lows — execution delay is causing measurable return drag.",
       "invalidation_conditions": [
         "Structural shift away from US equities as the dominant long-term growth engine",
         "A superior WHT-efficient broad market vehicle becomes available"
@@ -19,7 +19,7 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, no dividend",
       "wht_exposure": "0% (no dividend)",
-      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share), advertising revenue growing at double-digits, and AI infrastructure investment (Bedrock, Trainium custom silicon) make AMZN a compounding platform business. Tariff risk is concentrated in retail/logistics; AWS as a domestic cloud business is materially insulated from import tariff exposure. No dividend means 0% WHT. Currently up +11.42% from entry — the portfolio's leading performer. Portfolio is up 11.4% on cost while AMZN is down ~7.5% YTD from 2026 highs, confirming the entry quality.",
+      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share), advertising revenue growing at double-digits, and AI infrastructure investment (Bedrock, Trainium custom silicon) make AMZN a compounding platform business. Tariff risk is concentrated in retail/logistics; AWS as a domestic cloud business is materially insulated. No dividend means 0% WHT. Currently up +12.13% from entry — the portfolio's leading performer. Meta's $60B April 2026 AI infrastructure commitment confirms the hyperscaler capex cycle is intact, directly benefiting AWS. Thesis conviction: HIGH.",
       "invalidation_conditions": [
         "AWS loses meaningful cloud market share to Azure or GCP on a sustained basis",
         "Regulatory breakup that separates AWS from the retail/advertising business",
@@ -32,7 +32,7 @@
       "buy_date": null,
       "structure": "US-domiciled gold ETF",
       "wht_exposure": "0% (no income distributions)",
-      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. Held as a portfolio stabilizer and return enhancer. Up +53% on a trailing 12-month basis — the YTD asset class leader. April 7 ceasefire may reduce the near-term geopolitical safe-haven bid but structural gold drivers remain intact: central bank gold accumulation at multi-decade highs, weaponisation of USD reserves driving non-US central banks to diversify, US debt trajectory, and real rates below long-run equilibrium.",
+      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. Held as portfolio stabiliser and return enhancer. Slight pullback in April 2026 from multi-year highs as the Iran ceasefire relief rally reduces the immediate geopolitical bid. Structural drivers remain intact: central bank gold accumulation at multi-decade highs, weaponisation of USD reserves driving non-US central bank diversification, US debt trajectory, and real rates below long-run equilibrium. Tariff-driven CPI inflation (projected 3.6% YoY by June 2026) provides an ongoing macro bid for gold.",
       "invalidation_conditions": [
         "Sustained USD strengthening cycle driven by structurally higher real rates that persist above inflation",
         "Major reversal in central bank gold buying trend (multiple major central banks becoming net sellers)",
@@ -45,7 +45,7 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, minimal dividend",
       "wht_exposure": "30% WHT on dividend — confirmed $0.22 withheld on $0.73 April dividend. Annualised WHT drag <$1 at current position size. Immaterial.",
-      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. Currently -2.84% from entry — weakness is macro-driven (tariff uncertainty, consumer sentiment softness) not a thesis breakdown. Dividend yield <1% means WHT drag is under $1/year at current size. Designated Tranche 3 co-target alongside CSPX if S&P drops an additional 5-7% — averaging down would materially improve cost basis.",
+      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. Recovered from -2.84% to -0.91% unrealized loss as markets rally — confirming the macro-driven nature of the weakness. Dividend yield <1% means WHT drag is under $1/year at current size. Designated Tranche 3 co-target alongside CSPX if S&P drops an additional 5-7% — averaging down would materially improve cost basis. Thesis conviction: HOLD.",
       "invalidation_conditions": [
         "Disintermediation by real-time payment rails (FedNow, open banking) gaining scale at the expense of card networks",
         "Regulatory caps on interchange fees in core US or European markets",
@@ -58,7 +58,7 @@
       "buy_date": null,
       "structure": "US equity, negligible dividend",
       "wht_exposure": "0% (dividend yield <0.1%, negligible WHT impact)",
-      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs that no competitor has credibly overcome at scale. H100/B200 upgrade cycle is intact. Currently +3.66% from entry but underperforming Nasdaq peers — index +4.1% vs NVDA +1% this week signals relative momentum weakness. Key risk: China export restrictions and growing investor scrutiny of hyperscaler AI capex sustainability. Thesis requires monitoring Q1 earnings commentary from major hyperscalers (AMZN, MSFT, GOOGL) on AI infrastructure spend trajectory. Hold conviction; do not add until technical momentum resumes.",
+      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs that no competitor has credibly overcome at scale. H100/B200 upgrade cycle intact. Currently +4.03% from entry but approximately -5% YTD — underperforming the broader market and Nasdaq peers. Meta's $60B April 2026 AI infrastructure commitment (AMD-based but confirms AI capex cycle is robust) is indirectly supportive of NVDA's training dominance. Key watch: hyperscaler Q1 2026 earnings commentary on AI infrastructure capex trajectory. Thesis conviction: HOLD — do not add until technical momentum relative to Nasdaq resumes.",
       "invalidation_conditions": [
         "AMD or custom silicon (Google TPU, Amazon Trainium, Microsoft Maia) takes meaningful and sustained share in AI training workloads",
         "AI capex cycle reverses — hyperscalers visibly cut or guide down infrastructure spend across multiple quarters",
@@ -70,13 +70,13 @@
       "name": "ASML Holding NV",
       "buy_date": null,
       "structure": "Dutch equity (NASDAQ-listed NY Reg Shs)",
-      "wht_exposure": "15% Dutch WHT assumed (treaty rate). ACTION REQUIRED: verify on next IBKR tax document whether 15% (NL treaty) or 30% (US NRA flat) is actually being applied. If 30%, evaluate switching to AMS-listed shares to eliminate US NRA withholding.",
-      "thesis": "Monopoly supplier of EUV lithography systems — no credible competitor exists for leading-edge chip manufacturing. Every advanced fab (TSMC, Samsung, Intel) is ASML-dependent for sub-7nm production. Currently +22% YTD and +5.81% from entry — portfolio's strongest risk-adjusted performer. Q1 2026 earnings on April 15 are the key near-term catalyst: consensus EUR 10.21B revenue / EUR 7.72 EPS. TSMC strong Q1 results (reported this week) are a positive read-through for ASML order visibility. A beat with intact 2026/2027 order guidance would strongly reinforce the thesis. A guidance cut on EUV orders would be a thesis-level event triggering a position review.",
+      "wht_exposure": "15% Dutch WHT assumed (treaty rate). ACTION REQUIRED: verify on next IBKR tax document whether 15% (NL treaty) or 30% (US NRA flat) is actually being applied. If 30%, evaluate switching to AMS-listed shares to eliminate US NRA withholding entirely.",
+      "thesis": "Monopoly supplier of EUV lithography systems — no credible competitor exists for leading-edge chip manufacturing. Every advanced fab (TSMC, Samsung, Intel) is ASML-dependent for sub-7nm production. Currently +7.38% from entry. Q1 2026 earnings released April 15, 2026. Pre-earnings setup was strong: TSMC strong Q1 results confirm EUV demand, SK Hynix ($8B) and Samsung ($4-5B) equipment commitments confirmed. CRITICAL NEW DEVELOPMENT: ASML stopped disclosing specific order data beginning Q1 2026 — a structural change toward opacity that increases investor uncertainty even though the fundamental monopoly is unchanged. Post-earnings assessment pending. Full-year guidance EUR 34-39B revenue intact.",
       "invalidation_conditions": [
         "China develops a credible domestic EUV alternative — assessed as a 5-10 year horizon risk, not near-term",
         "Semiconductor capex supercycle ends and fab customers cancel or significantly delay EUV orders at scale",
         "Dutch government export restrictions expand materially beyond current ASML guidance",
-        "Q1 2026 earnings guidance cut: EUV order intake falls materially below 2025 run-rate"
+        "Post-Q1 2026 earnings: management commentary signals materially weaker customer demand or order intake concerns"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "buy_date": "2026-04-03",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0% (portfolio interest exemption via Irish fund)",
-      "thesis": "Cash equivalent / capital preservation layer yielding ~4%+ T-bill rate with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — a materially superior structure for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). Marginally overweight at 16.28% vs. 15% target — within tolerance. As the Fed approaches its rate cut cycle, opportunity cost of holding a cash equivalent rises; flag for gradual trimming over subsequent rebalancing passes.",
+      "thesis": "Cash equivalent / capital preservation layer yielding approximately 4%+ T-bill rate with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — a materially superior structure for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). At 14.16% of NAV — approximately on target vs 15% goal. Fed now expected to deliver two rate cuts in 2026 (upgraded from one); as the rate cut cycle progresses, the opportunity cost of holding this position will rise. Flag for gradual trimming over subsequent rebalancing passes once CSPX gap is closed.",
       "invalidation_conditions": [
         "Fed cuts rates aggressively (>100bps) — opportunity cost of T-bill equivalent rises significantly vs equities",
         "A better WHT-efficient fixed income vehicle with superior risk-adjusted return is identified",
