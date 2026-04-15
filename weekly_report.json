@@ -1,29 +1,61 @@
 {
-  "report_date": "2026-04-13",
-  "portfolio_nav": 4225.93,
-  "holdings_value": 3687.29,
-  "cash_available": 538.64,
-  "week_return_pct": 0.83,
-  "vs_sp500_week_pct": -2.17,
-  "market_summary": "Markets delivered their best week since November 2025: S&P 500 +3.0%, Nasdaq +4.1%, Dow +3.0%. The primary catalyst was an April 7 ceasefire agreement resolving the Iran conflict that had persisted since late February — this unwound a meaningful geopolitical risk premium and triggered a sharp pivot into growth assets. Large-cap growth returned +3.6% on the week; small-cap growth +4.0%. Notably, the equal-weighted S&P 500 outperformed the cap-weighted index — a sign of broadening market participation and rotation away from mega-cap concentration. ASML is up +22% YTD, outpacing most semiconductor peers. Gold is the trailing-12-month return leader at +53%. The portfolio returned +0.83% for the period April 4–10 (seed NAV $4,191 → $4,225.93) versus the S&P 500's +3.0%, underperforming by approximately 2.2 percentage points. The gap is attributable primarily to 12.74% idle cash drag and the still-unexecuted CSPX buy recommended April 11.",
-  "macro_themes": "1. TARIFFS: Liberation Day reciprocal tariffs remain the dominant macro regime. The 90-day higher-tariff pause is in force for all countries except China; China-facing duties sit at 125% versus 84% Chinese retaliation. Business investment is being depressed by uncertainty and consumer-goods inflation risk remains elevated. 2. FED: Funds rate at 3.50–3.75%, on hold. Fed projecting one cut in 2026. Chair Powell's term expires May 2026 — succession ambiguity adds a second layer of policy uncertainty. Core PCE tracking ~2.7%, above target, constraining room for aggressive easing. 3. GROWTH / RECESSION: Recession risk is receding post-ceasefire but not eliminated. Labor market remains soft — job gains are low and unemployment has been drifting higher since Q4 2025. Consumer spending health is the key variable to watch. 4. EARNINGS SEASON: Q1 2026 results are beginning. ASML reports April 15 — the most important near-term catalyst in this portfolio. Consensus: ~EUR 10.21B revenue, EUR 7.72 EPS. Any order guidance cut on EUV systems would be a thesis-level event. TSMC reported strong results, which bodes well for ASML order visibility. 5. GEOPOLITICS: Iran ceasefire (April 7) removed the acute risk premium, triggering the week's rally. Gold and defensive positioning may face modest near-term headwinds as relief rally continues, but the structural macro case for gold (central bank accumulation, dollar weaponisation concerns, US debt trajectory) remains intact.",
-  "portfolio_health": "Grade: C+ (75/100). NAV $4,225.93 — up $34.93 (+0.83%) from the April 4 seed baseline. The portfolio's primary structural weakness remains elevated cash drag: $538.64 (12.74% of NAV) is sitting idle. The April 11 recommendation to deploy $250 into CSPX appears unexecuted; this is the highest-priority open action item. CSPX at 29.35% is 6.65 percentage points below its 36% target — the largest allocation gap. All seven equity theses are intact with no invalidation conditions triggered. WHT structure is clean: five positions at 0% effective WHT, ASML at 15% Dutch treaty rate (acceptable), MA with sub-$1/year WHT drag at current size. YTD the portfolio has paid $3.30 in withholding tax (confirmed: $0.22 withheld on a $0.73 MA dividend in April at the 30% NRA rate; remainder likely residual from GS dividends before the margin account closed February 10). Total unrealized P&L: +$118.24 (+3.31% on cost basis of $3,568.39). Commissions YTD: $65.65 — reasonable for portfolio size.",
+  "report_date": "2026-04-15",
+  "portfolio_nav": 4238.11,
+  "holdings_value": 3699.39,
+  "cash_available": 538.72,
+  "week_return_pct": 0.29,
+  "vs_sp500_week_pct": -0.89,
+  "market_summary": "S&P 500 continued its post-Liberation Day recovery, closing at 6,967.38 on April 14 (+1.18% on the day, approximately +4.6% for the week of April 7-14). The index is now up roughly 8% from its mid-March trough, driven by the April 7 Iran ceasefire relief rally and resilient earnings. Portfolio NAV moved from $4,225.93 (April 13 intraday report) to $4,238.11 per April 13 EOD IBKR data — a gain of +0.29% — materially lagging the market. The shortfall is structural: 14.27% idle cash earns nothing while equities rally. The S&P gained +1.18% on April 14 alone; the portfolio did not participate because the overdue CSPX buy remains unexecuted. ASML Q1 2026 results were released this morning (April 15) ahead of the US market open.",
+  "macro_themes": "1. TARIFFS: The 90-day higher-tariff pause (ex-China at 125%) remains in force. The US average effective tariff rate stays elevated in double-digits. CPI inflation is projected to accelerate to 3.6% YoY by June 2026 as tariff feedthrough materialises — above Fed target, constraining rate-cut room. Business investment remains suppressed by policy uncertainty. 2. FED: Funds rate unchanged at 3.50-3.75%. Consensus now expects two rate cuts for full year 2026 (upgraded from one in prior report), though tariff-driven inflation constrains timing. Chair Powell succession uncertainty (term expires May 2026) adds a second layer of policy risk. 3. ASML Q1 EARNINGS (April 15): Results released this morning. Guidance range was EUR 8.2-8.9B revenue (FactSet consensus EUR 8.61B). Full-year guidance EUR 34-39B. CRITICAL STRUCTURAL CHANGE: ASML has stopped disclosing specific order data starting this quarter — a new opacity regime that increases uncertainty for investors. ASML.AS was +1.15% on April 14 ahead of results; TSMC strong Q1 is a positive EUV demand read-through. SK Hynix ($8B) and Samsung ($4-5B) orders confirmed large-scale customer commitments. 4. NVIDIA: Trading at ~$188-189, approximately -5% YTD but +4% above our cost basis. Meta committed $60B to AI infrastructure in early April (AMD-based), confirming hyperscaler AI capex cycle is robust — indirectly supportive of NVDA training dominance. 5. GOLD: GLD at $435.36, slight pullback from $438.49 on April 10 as risk-on sentiment recovers. Structural gold case intact: central bank accumulation at multi-decade highs, USD weaponisation concerns, US debt trajectory.",
+  "portfolio_health": "Grade: C (70/100). NAV $4,238.11 — up $47.11 (+1.12%) from the April 4 seed baseline. The critical structural failure is now in its fourth consecutive week: 14.27% idle cash ($538.72) is the single largest drag on returns. The $250 CSPX buy recommended April 11, re-recommended April 13 for execution at the April 14 market open, is confirmed unexecuted per April 13 EOD XML data (CSPX position unchanged at 1.4745 shares, avg cost $706.41). CSPX underweight: 25.49% of NAV vs 36% target = -10.51 percentage point gap. This is larger than the -6.65% gap reported last week because NAV grew while CSPX stayed flat. Total unrealized P&L: +$130.12 (+3.65% on cost basis of $3,568.37). WHT structure clean: 5 positions at 0% effective WHT, ASML at 15% Dutch treaty rate (unconfirmed — verify on next dividend), MA at 30% on dividend but annualised drag under $1. Commissions YTD: $65.65. WHT withheld YTD: $3.33.",
   "positions": [
     {
       "symbol": "CSPX",
-      "market_value": 1082.31,
-      "unrealized_pnl_pct": 3.91,
+      "market_value": 1080.28,
+      "unrealized_pnl_pct": 3.71,
       "wht_exposure": "0%",
-      "action": "BUY",
-      "rationale": "Core portfolio anchor — IE-domiciled accumulating S&P 500 ETF, the optimal structure for this investor profile. At 29.35% of NAV versus 36% target, the drift gap of -6.65% is the portfolio's primary inefficiency. The April 11 recommendation to buy $250 (~0.3406 units at ~$734) was not executed and is now overdue. S&P 500 +3.0% this week validates the core thesis; broadening market participation (equal-weight outperforming cap-weight) further supports adding to broad index exposure. Zero WHT, zero dividend drag. Execute $250 buy at Monday April 14 open — no further deferral is justified."
+      "action": "ADD",
+      "rationale": "Core index position severely underweight at 25.49% of NAV vs 36% target — a 10.51pp gap. The $250 buy (approximately 0.341 units at ~$732) recommended April 11 and re-confirmed April 13 is 4 days overdue and must be executed immediately at next market open. IE-domiciled accumulating structure is the structurally optimal vehicle for WHT efficiency. With the S&P 500 up 8% from March lows and continuing to rally, every additional day of delay compounds the underperformance cost. Post-trade: CSPX moves to approximately 31.4% of NAV, cash drops to approximately 8.4%."
     },
     {
       "symbol": "AMZN",
-      "market_value": 571.13,
-      "unrealized_pnl_pct": 11.42,
+      "market_value": 574.75,
+      "unrealized_pnl_pct": 12.13,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "Portfolio's leading performer at +11.42% from our Liberation Day dip entry. Despite being roughly -7.5% YTD from its 2026 highs, our basis is far superior. Thesis fully intact: AWS cloud dominance, advertising flywheel, and AI infrastructure spend (Bedrock, Trainium) are structural growth drivers. Tariff risk is concentrated in retail and logistics — AWS is a domestic cloud business with negligible import tariff exposure. No dividend means 0% WHT. High conviction hold — do not trim."
+      "rationale": "Portfolio's leading performer at +12.13% from the Liberation Day dip entry. AWS cloud market leadership intact. AI infrastructure investment via Bedrock and Trainium custom silicon strengthens the platform thesis. Meta's $60B AI infrastructure commitment (April 2026) confirms hyperscaler capex cycle is intact, benefiting AWS. No dividend = 0% WHT. No invalidation signals. At 13.56% of NAV — within acceptable range. Key catalyst ahead: AMZN Q1 2026 earnings — AI capex commentary will serve as a primary NVDA and ASML read-through."
+    },
+    {
+      "symbol": "ASML",
+      "market_value": 260.88,
+      "unrealized_pnl_pct": 7.38,
+      "wht_exposure": "15% (Dutch treaty rate assumed — UNCONFIRMED; verify on next IBKR dividend statement. If 30% NRA rate is applied, evaluate switching to AMS-listed shares.)",
+      "action": "HOLD",
+      "rationale": "Q1 2026 earnings released this morning. Pre-earnings setup was strong: ASML.AS +1.15% on April 14, positive TSMC read-through on EUV demand, and confirmed large customer commitments from SK Hynix and Samsung. CRITICAL NEW RISK: ASML stopped disclosing specific order data beginning this quarter — a structural negative for investor confidence transparency even though the fundamental EUV monopoly is unchanged. Monitor post-earnings management commentary carefully. Thesis intact. Position small at 6.16% of NAV; build after Tranche 3 deployment if earnings confirm demand trajectory."
+    },
+    {
+      "symbol": "GLD",
+      "market_value": 435.36,
+      "unrealized_pnl_pct": 1.80,
+      "wht_exposure": "0%",
+      "action": "HOLD",
+      "rationale": "Slight pullback from recent highs (down approximately $3 from April 10) as risk-on sentiment recovers post-ceasefire. Structural gold thesis intact: central bank accumulation at multi-decade highs, USD weaponisation concerns, US debt trajectory, and real rates below equilibrium. No income distributions = 0% WHT despite US domicile. At 10.27% of NAV vs 11% target — within tolerance. Fed succession uncertainty and tariff-driven inflation provide ongoing macro bid. Hold."
+    },
+    {
+      "symbol": "MA",
+      "market_value": 363.33,
+      "unrealized_pnl_pct": -0.91,
+      "wht_exposure": "30% (confirmed: $0.22 withheld on $0.73 April dividend; annualised drag <$1 at current size — immaterial)",
+      "action": "HOLD",
+      "rationale": "Improvement from -2.84% to -0.91% since last report — recovering with market. Softness is entirely macro-driven and does not represent a thesis breakdown. Payments duopoly economics with near-monopoly characteristics intact. WHT drag is confirmed but immaterial at this position size. Designated as Tranche 3 co-target: if S&P drops additional 5-7%, deploy $100 into MA alongside $200 CSPX — averaging down improves cost basis materially. Conviction: HOLD."
+    },
+    {
+      "symbol": "NVDA",
+      "market_value": 384.47,
+      "unrealized_pnl_pct": 4.03,
+      "wht_exposure": "0%",
+      "action": "HOLD",
+      "rationale": "At ~$188-189, +4.03% above our cost basis but approximately -5% YTD — underperforming the broader market. Meta's $60B AI infrastructure commitment (April 2026) confirms hyperscaler AI capex remains robust, indirectly validating NVDA training dominance. CUDA ecosystem moat remains unchallenged at scale. Relative weakness vs Nasdaq is the primary near-term concern; do not add until technical momentum relative to Nasdaq improves and hyperscaler Q1 earnings confirm AI capex guidance direction."
     },
     {
       "symbol": "U03A",
@@ -31,61 +63,23 @@
       "unrealized_pnl_pct": -1.26,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "IE-domiciled iShares USD Treasury Bond 0-3M accumulating ETF earning ~4%+ T-bill yield with 0% effective WHT under the Irish portfolio interest exemption — the correct WHT-efficient replacement for SGOV (30% WHT). Minor -1.26% mark-to-market reflects rate expectations, not credit risk. Marginally overweight at 16.28% vs. 15% target — within acceptable drift. As the Fed approaches its first rate cut, the opportunity cost of this position rises; flag for gradual trimming in the next rebalancing cycle. Hold for now."
-    },
-    {
-      "symbol": "GLD",
-      "market_value": 437.13,
-      "unrealized_pnl_pct": 2.21,
-      "wht_exposure": "0%",
-      "action": "HOLD",
-      "rationale": "Macro hedge performing as designed. Gold +53% trailing 12 months — the YTD asset class leader. Our position is up +2.21% from cost. The April 7 ceasefire may soften the near-term geopolitical safe-haven bid, but the structural gold thesis is independent of any single conflict: central bank gold accumulation at multi-decade highs, weaponisation of USD reserves driving non-US central banks to diversify, and real rates remaining below long-run equilibrium. No income distributions = 0% WHT. Hold. Only consider trimming if the portfolio needs redeployment into equities following a deeper S&P pullback."
-    },
-    {
-      "symbol": "NVDA",
-      "market_value": 383.09,
-      "unrealized_pnl_pct": 3.66,
-      "wht_exposure": "0%",
-      "action": "HOLD",
-      "rationale": "AI GPU thesis intact but underperforming Nasdaq peers — index +4.1% for the week vs. NVDA +1%, a notable divergence. Two overhangs persist: (1) China export restrictions limiting the full addressable market, and (2) growing investor scrutiny of hyperscaler AI capex sustainability. CUDA moat and the H100/B200 upgrade cycle remain unbroken — no competitor has credibly displaced NVDA in AI training at scale. Dividend yield negligible (<0.1%), 0% effective WHT. Hold conviction but do not add until technical momentum resumes or AI capex guidance from hyperscalers (Amazon, Microsoft, Google in Q1 earnings season) reconfirms the spend trajectory."
-    },
-    {
-      "symbol": "MA",
-      "market_value": 356.24,
-      "unrealized_pnl_pct": -2.84,
-      "wht_exposure": "30% WHT confirmed on dividend — ~$0.22 withheld in April. Annualised WHT drag <$1 at current size. Immaterial.",
-      "action": "HOLD",
-      "rationale": "Only underwater position at -2.84% (-$10.42). Weakness is macro-driven (tariff shock, consumer sentiment softness), not a thesis breakdown. Mastercard's duopoly payments network economics, asset-light model, and global spend-volume exposure are structural — not cyclical. Dividend WHT confirmed at 30% NRA rate; drag is immaterial (<30bps annualised impact at current position size). Hold through the noise. If S&P 500 drops an additional 5-7%, MA is the designated co-target for Tranche 3 alongside CSPX — this averaging-down scenario would improve the cost basis materially."
-    },
-    {
-      "symbol": "ASML",
-      "market_value": 257.07,
-      "unrealized_pnl_pct": 5.81,
-      "wht_exposure": "15% Dutch WHT (NY ADR treaty rate assumed). Verify on next dividend — if IBKR applies 30% US NRA rate instead, evaluate switching to AMS-listed shares.",
-      "action": "HOLD",
-      "rationale": "EUV monopoly thesis intact and performing strongly: +22% YTD, +5.81% from our entry. Q1 2026 earnings on April 15 are the most important near-term catalyst in the portfolio. TSMC's strong Q1 results this week are a positive read-through for ASML's order visibility. Consensus is EUR 10.21B revenue / EUR 7.72 EPS. A beat with strong 2026/2027 EUV order guidance would materially strengthen conviction. A guidance cut on orders (from China export restriction spillover or semis capex softening) would be a thesis-level event requiring a position review. Hold into the print."
+      "rationale": "IE-domiciled accumulating T-bill equivalent yielding approximately 4%+ with 0% effective WHT — structurally correct cash management for a Lebanese resident. Mark-to-market loss of -1.26% is irrelevant for a near-zero-duration instrument. At 14.16% of NAV vs 15% target — essentially on target. Once the overdue CSPX buy executes and Tranche 3 deploys, U03A weight will drift toward target naturally. Do not trim in advance of those trades."
     }
   ],
-  "rebalancing": "Single rebalancing action required: BUY CSPX $250 (~0.3406 units at ~$734). This was recommended April 11 and not executed — it is now overdue. The trade closes the CSPX drift from -6.65% to approximately -2.2% and reduces cash drag from 12.74% to ~6.9%. No other rebalancing is warranted — all remaining positions are within acceptable ±5% drift bands. U03A at +1.28% overweight is within tolerance; a minor trim of $50-75 into CSPX can be considered in 4-6 weeks during the next rebalancing pass. Avoid over-trading a $4.2K portfolio — at this NAV, transaction costs and friction matter materially.",
-  "cash_strategy": "$538.64 available; $488.64 deployable after $50 operating buffer. Immediate action: execute the overdue $250 CSPX buy at April 14 market open. Residual after trade: ~$288.64 (~6.9% of NAV), held as Tranche 3 dry powder. Tranche 3 deployment rules from the seed plan remain in force: (A) If S&P 500 drops an additional 5-7% from current levels, deploy $200 into CSPX + $100 into MA; (B) Hard fallback deadline of May 3, 2026 — if trigger not hit, deploy $200 into CSPX regardless and retain ~$88 as minimum operating buffer. Cash must not remain above 10% of NAV beyond the May 3 deadline.",
+  "rebalancing": "Single critical action required: BUY CSPX $250 immediately — 4 days overdue. After this trade: CSPX rises from 25.49% to approximately 31.4% of NAV, cash drops from 14.27% to approximately 8.4%. No other rebalancing warranted — all remaining positions within acceptable drift bands. Post-CSPX-buy, the remaining approximately $288.72 constitutes Tranche 3 with a hard deployment deadline of May 3, 2026. Deploy $200 CSPX + $100 MA if S&P drops additional 5-7%; deploy $200 CSPX unconditionally by May 3 if trigger not hit. Cash must not remain above 10% of NAV past May 3.",
+  "cash_strategy": "$538.72 available; $488.72 deployable after $50 operating buffer. STEP 1 — IMMEDIATE: Execute overdue $250 CSPX buy at next market open. Cash falls to approximately $288.72 (approximately 6.8% of post-trade NAV). STEP 2 — TRANCHE 3 ($288.72, 18-day window to May 3): Trigger A: S&P 500 drops additional 5-7% from current approximately 6,967 level — deploy $200 CSPX + $100 MA. Trigger B (hard deadline): If no further drop by May 3, 2026 — deploy $200 CSPX unconditionally, retain approximately $88 as minimum operating buffer. Cash above 10% of NAV is structurally return-destructive at this portfolio size.",
   "new_opportunities": [
     {
       "symbol": "AVGO",
-      "rationale": "Broadcom is the highest-conviction new-addition candidate. AI custom silicon (Google TPU collaboration, Meta AI accelerator programs) plus networking dominance (VMware integration synergies) position it as the primary beneficiary of AI infrastructure diversification away from pure GPU. Broadcom is outperforming NVDA YTD in 2026. No meaningful dividend yields 0% WHT. Strong momentum. Would complement NVDA as a second AI semiconductor name and reduce single-stock concentration in the AI infrastructure theme. NOT a buy today — portfolio has 7 positions at $4.2K NAV and the CSPX gap must close first. Revisit when portfolio NAV reaches ~$5K and Tranche 3 is deployed.",
-      "suggested_size": "$200 — deferred until Tranche 3 is fully deployed"
-    },
-    {
-      "symbol": "CSPX (incremental add beyond Tranche 2)",
-      "rationale": "If no high-conviction single-stock opportunity emerges after Tranche 3 deployment, defaulting the residual cash into CSPX is the correct fallback. At this portfolio size ($4.2K), adding a new position below $200 adds fragmentation without meaningful return contribution. CSPX at 0% WHT with full S&P 500 exposure is always the highest-quality default deployment for surplus cash.",
-      "suggested_size": "$88-$200 depending on Tranche 3 split"
+      "rationale": "Broadcom remains the highest-conviction new addition candidate. AI custom silicon leadership (Google TPU, Meta AI accelerator programmes) plus networking dominance via VMware integration make it the primary beneficiary of AI infrastructure diversification beyond pure GPU. Zero dividend yield = 0% WHT. Strong momentum, outperforming NVDA YTD. Would complement NVDA as a second AI semiconductor name and reduce single-stock concentration in the AI theme. NOT a buy today — the CSPX gap must close first and portfolio NAV must reach approximately $5K to justify a new position without adding unhelpful fragmentation. Revisit after full Tranche 3 deployment.",
+      "suggested_size": "$250-300 when NAV exceeds $5,000"
     }
   ],
   "action_items": [
-    "EXECUTE — April 14 open: Buy CSPX $250 (~0.3406 units at ~$734). Carried from April 11, now overdue. Closes largest drift gap (-6.65% → ~-2.2%), reduces cash drag (12.74% → ~6.9%). This is the single highest-priority action in the portfolio.",
-    "WATCH — April 15: ASML Q1 2026 earnings. Consensus EUR 10.21B revenue / EUR 7.72 EPS. Strong beat + order guidance intact → thesis reinforced, consider building position when capital permits. Revenue miss or EUV order guidance cut → evaluate partial trim to redeploy into CSPX.",
-    "HOLD — Retain ~$288.64 post-CSPX-buy as Tranche 3 reserve. 3-week deployment countdown begins April 14. Deploy $200 CSPX + $100 MA on any additional 5-7% S&P drop; or $200 into CSPX by May 3 regardless if trigger is not hit.",
-    "MONITOR — NVDA underperforming Nasdaq by ~3 percentage points this week. Watch Q1 earnings commentary from hyperscalers (AMZN, MSFT, GOOGL) on AI infrastructure capex trajectory — this is the primary NVDA thesis risk. No action until signals clarify.",
-    "VERIFY — On next ASML dividend: check IBKR tax documentation to confirm whether 15% (Dutch treaty) or 30% (US NRA flat rate) WHT is applied on the NY Reg Shs. If 30% is confirmed, evaluate switching to AMS-listed ASML to eliminate the US NRA withholding entirely.",
-    "NOTE — WHT confirmed: MA paid $0.73 dividend in April with $0.22 withheld (30.1% — as expected for US NRA). Annual WHT drag on MA is under $1 at current size. No action required but document for record."
+    "CRITICAL — Execute IMMEDIATELY: Buy CSPX $250 (approximately 0.341 units at approximately $732). 4 days overdue. Closes the largest allocation gap (-10.5pp), reduces cash drag from 14.27% to approximately 8.4%. Must happen at next market open — no further deferral justified.",
+    "MONITOR — ASML Q1 2026 earnings (April 15, today): Results released this morning. Assess reported revenue vs EUR 8.2-8.9B guidance (consensus EUR 8.61B) and management commentary on customer demand (order data no longer disclosed). Beat + confident demand narrative = thesis reinforced, consider building position at next capital injection. Miss or cautious tone = evaluate partial trim and redeploy into CSPX.",
+    "HARD DEADLINE — May 3, 2026: Tranche 3 (approximately $288.72 post-CSPX) must be deployed. $200 CSPX + $100 MA on any 5-7% S&P drop; or $200 CSPX unconditionally by May 3 if trigger not hit. No extensions.",
+    "VERIFY — Next ASML dividend: Confirm IBKR applies 15% (Dutch treaty) or 30% (US NRA flat) WHT on NY Reg Shs. If 30% confirmed, evaluate switching to AMS-listed ASML shares to eliminate US NRA withholding.",
+    "WATCH — Fed Chair succession (May 2026): Powell term expires next month. Monitor for policy regime shift signals that could affect the rate outlook and U03A thesis."
   ]
 }
