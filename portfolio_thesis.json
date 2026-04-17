@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16",
+  "last_updated": "2026-04-17",
   "positions": [
     {
       "symbol": "CSPX",
@@ -7,7 +7,8 @@
       "buy_date": "2026-04-01",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0%",
-      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Held as the portfolio anchor targeting 36% of NAV. Currently severely underweight at 25.49% of NAV (1.4745 shares, avg cost $706.41). The $250 ADD trade has been recommended for five consecutive weekly reports (April 11, 13, 15, 16) and remains unexecuted — a critical operational failure costing measurable returns while the S&P 500 reaches all-time highs (7,022.95 on April 15). Tranche 3 ($297.99 post-CSPX-buy) has a hard deployment deadline of May 3, 2026 and will bring the position closer to the 36% target.",
+      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Held as the portfolio anchor targeting 36% of NAV. Currently severely underweight at 25.79% of total portfolio NAV (1.4745 shares, avg cost $706.41). The $250 ADD trade has been recommended for SIX consecutive weekly reports (April 11, 13, 15, 16, 17) and remains unexecuted — a critical operational failure costing measurable returns while the S&P 500 has reached new all-time highs (7,041.28 on April 16, first close above 7,000 in history). Tranche 3 ($242.41 post-CSPX-buy) has a hard deployment deadline of May 3, 2026 (16 days from April 17). The unexecuted CSPX buy is the single most urgent action in the portfolio.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
         "Structural shift away from US equities as the dominant long-term growth engine",
         "A superior WHT-efficient broad market vehicle becomes available"
@@ -19,7 +20,8 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, no dividend",
       "wht_exposure": "0% (no dividend)",
-      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share, Q4 2025 revenue $35.6B growing 24% YoY), advertising revenue at double-digit growth, and AI infrastructure investment (Bedrock, Trainium custom silicon, Amazon Leo satellite). AI revenue run rate now $15B; management projects AWS at $600B annual sales by 2036. $200B 2026 capex commitment demonstrates deep conviction. CEO Jassy's 2025 shareholder letter widely praised by analysts. No dividend means 0% WHT. As of April 14: up +16.40% from entry — portfolio's leading performer. 64/68 analysts rate Buy, $281 average price target (20% upside). Thesis conviction: HIGH and strengthening.",
+      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share), advertising revenue at double-digit growth, and AI infrastructure investment (Bedrock, Trainium custom silicon). AI revenue run rate now $15B; $200B 2026 capex commitment demonstrates deep management conviction. CEO Jassy's shareholder letter widely praised by analysts. Tariff cost pressures on the retail segment flagged in April 2026 but are not thesis-invalidating given AWS and advertising dominance. No dividend means 0% WHT. As of April 16: up +16.71% from entry ($249.70 vs cost $213.94). Analyst consensus: 95% Buy/Strong Buy, $281 average price target (13% upside from current). Thesis conviction: HIGH and STRENGTHENING.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
         "AWS loses meaningful cloud market share to Azure or GCP on a sustained basis",
         "Regulatory breakup that separates AWS from the retail/advertising business",
@@ -32,12 +34,13 @@
       "buy_date": null,
       "structure": "US-domiciled gold ETF",
       "wht_exposure": "0% (no income distributions)",
-      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. GLD peaked at $509.70 on January 29, 2026 (all-time high) and has since declined approximately 12.5% to $445.09 as of April 14 — a meaningful pullback driven by risk-on sentiment (S&P 500 at ATH), the Iran ceasefire resolution, and a stabilizing USD. Structural drivers remain intact: central bank gold accumulation at multi-decade highs, USD reserve weaponisation concerns, US debt trajectory, and tariff-driven CPI inflation (projected 3.6% YoY by June 2026). Near-term momentum is neutral-negative. At 10.30% of NAV, near the 11% target — within acceptable range. Price alert set at GLD $420 — breach triggers 25% trim and CSPX redeployment.",
+      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. XAU/USD at approximately $4,830/oz as of April 2026, with GLD at $440.08. Prior reports noted gold declining from the January 29 ATH — however the Iran war (Strait of Hormuz still disrupted, fragile ceasefire, US naval blockade active April 13) is actively supporting safe-haven demand. Central bank ETF inflows at 920 tonnes (up from 840t end-2025). Major institutional gold forecasts are uniformly bullish: J.P. Morgan targets XAU $5,055/oz by Q4 2026 (implies GLD ~$468); RBC targets $4,800 by year-end; Wells Fargo projects $6,100-6,300. THESIS REVISED STRONGER: prior report assessment of eroding safe-haven demand understated the Iran war tail risk. GLD at $440.08 is well above the $420 price alert threshold. Hold. Price alert remains at GLD $420 — breach triggers 25% trim and CSPX redeployment.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
         "Sustained USD strengthening cycle driven by structurally higher real rates that persist above inflation",
         "Major reversal in central bank gold buying trend (multiple major central banks becoming net sellers)",
         "GLD breaks and holds below $420 — triggers 25% trim rebalance into CSPX",
-        "Risk-off environment fully resolves AND portfolio has better risk-adjusted deployment opportunity in equities"
+        "Iran war fully and durably resolved AND Strait of Hormuz fully reopened AND risk-on environment maintained for 4+ consecutive weeks"
       ]
     },
     {
@@ -46,10 +49,12 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, minimal dividend",
       "wht_exposure": "30% WHT on dividend — confirmed $0.22 withheld on $0.73 April dividend. Annualised WHT drag <$1 at current position size. Immaterial.",
-      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. Fully recovered from Liberation Day weakness — now essentially at breakeven (-0.02% unrealized as of April 14). Designated Tranche 3 co-target alongside CSPX if S&P drops an additional 5-7% — averaging down $100 at those levels would materially improve cost basis. Dividend yield <1% means WHT drag is under $1/year at current size. Thesis conviction: HOLD.",
+      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. As of April 16: up +1.03% unrealized ($518.54 vs cost $513.24). Analyst consensus: Strong Buy, $655 average price target (30%+ upside from current price). CRITICAL CHECKPOINT: Q1 2026 earnings due April 30, 2026. Some analysts flagging deceleration in US and cross-border payment volumes and rising regulatory scrutiny. The April 30 earnings print is a binary validation event — beat on volumes and confident guidance = thesis reinforced and Tranche 3 add becomes priority; miss or guidance cut = evaluate partial exit and redeploy into CSPX. Designated Tranche 3 co-target: ADD $100 if S&P drops 5-7% from ~7,041 or post-earnings beat confirms thesis. Dividend yield <1% means WHT drag is under $1/year at current size.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
         "Disintermediation by real-time payment rails (FedNow, open banking) gaining scale at the expense of card networks",
         "Regulatory caps on interchange fees in core US or European markets",
+        "Q1 2026 earnings (April 30) miss on volumes or management guides down — re-evaluate immediately",
         "Sustained global consumer spending contraction lasting multiple quarters"
       ]
     },
@@ -59,11 +64,13 @@
       "buy_date": null,
       "structure": "US equity, negligible dividend",
       "wht_exposure": "0% (dividend yield <0.1%, negligible WHT impact)",
-      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs. As of April 14: up +7.99% from entry ($196.51 vs cost $181.98), and on an 11-consecutive winning session streak — the longest on record. Hyperscaler AI capex cycle fully confirmed: Meta $60B, Amazon $200B 2026 commitments. ASML Q1 2026 beat confirms semiconductor capex supercycle is intact — indirectly positive for NVDA. China H20 restrictions are a known, priced-in risk — the $5.5B inventory charge was taken in a prior fiscal quarter and the situation has not materially changed in April 2026. Momentum has reversed to strongly positive. Thesis conviction: HOLD — do not add at elevated levels, let position compound.",
+      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs. As of April 17: up +9.0% from entry ($198.35 vs cost $181.98). MAJOR NEW CATALYST (April 2026): At GTC 2026, Jensen Huang revealed $1 trillion in confirmed purchase orders through 2027 — not projections, not estimates, but actual purchase orders. This is an extraordinary fundamental data point that materially de-risks the demand thesis. Vera Rubin platform debut and Feynman 2028 architecture roadmap confirm a multi-year innovation pipeline. Stock up +18% over 10 consecutive trading sessions — longest streak in years. Hyperscaler AI capex supercycle fully confirmed: Meta $60B, Amazon $200B 2026 commitments. China H20 restrictions are a known, priced-in risk — the $5.5B inventory charge was taken previously and no new expansion in April 2026. Next earnings: May 20, 2026. Thesis conviction: STRONGLY HIGH. Do not add at elevated post-surge levels — let position compound and reassess on pullback to $180-185 range.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
         "AMD or custom silicon (Google TPU, Amazon Trainium, Microsoft Maia) takes meaningful and sustained share in AI training workloads",
         "AI capex cycle reverses — hyperscalers visibly cut or guide down infrastructure spend across multiple quarters",
-        "Export restrictions to China expand materially beyond current guidance, reducing total addressable market by >15%"
+        "Export restrictions to China expand materially beyond current guidance, reducing total addressable market by >15%",
+        "Post-GTC 2026: $1T order backlog proves overstated or a significant portion of orders cancelled in subsequent quarters"
       ]
     },
     {
@@ -72,12 +79,13 @@
       "buy_date": null,
       "structure": "Dutch equity (NASDAQ-listed NY Reg Shs)",
       "wht_exposure": "15% Dutch WHT assumed (treaty rate). ACTION REQUIRED: verify on next IBKR tax document whether 15% (NL treaty) or 30% (US NRA flat) is actually being applied. If 30%, evaluate switching to AMS-listed ASML shares to eliminate US NRA withholding entirely.",
-      "thesis": "Monopoly supplier of EUV lithography systems — no credible competitor exists for leading-edge chip manufacturing. Every advanced fab (TSMC, Samsung, Intel) is ASML-dependent for sub-7nm production. Q1 2026 earnings (April 15, 2026): BEAT on revenue (EUR 8.8B vs EUR 8.5B consensus) and net income (EUR 2.8B vs EUR 2.5B expected). Full-year 2026 guidance RAISED to EUR 36-40B from EUR 34-39B. Q2 2026 guidance: EUR 8.4-9.0B revenue. These are strong results confirming EUV demand is robust. HOWEVER: stock fell approximately 6% post-earnings due to tightening US export controls on China-bound semiconductor equipment — one of the thesis invalidation conditions is activating. As of April 16, actual stock price closer to ~$1,427 (vs XML mark $1,518.30 from April 14 EOD); still above cost basis of $1,397.14. Net conviction: HOLD — the fundamental monopoly and raised guidance outweigh the China restriction headwind at current position size ($264 at April 14 mark, ~$248 post-earnings). Consider adding on further weakness at next capital injection.",
+      "thesis": "Monopoly supplier of EUV lithography systems — no credible competitor exists for leading-edge chip manufacturing. Every advanced fab (TSMC, Samsung, Intel) is ASML-dependent for sub-7nm production. Q1 2026 earnings (April 15, 2026): BEAT — EUR 8.8B revenue (vs EUR 8.5B consensus), EUR 2.8B net income (vs EUR 2.5B expected). Full-year 2026 guidance RAISED to EUR 36-40B (from EUR 34-39B). Q2 2026 guidance: EUR 8.4-9.0B revenue. Fundamental thesis intact. HEADWIND MATERIALIZING: China sales fell from 36% to 19% of net sales Q4 2025 → Q1 2026 — export control restrictions are visibly compressing the China revenue mix. However, guidance was raised (not cut) in Q1, indicating the non-China business is more than compensating. Stock at $1,410.83 (April 16), above cost basis $1,397.14. Net conviction: HOLD — EUV monopoly and raised guidance outweigh China restriction headwind at current position size. Monitor Q2 2026 commentary closely: if management guides China sales below 15% or overall revenue guidance is cut, reevaluate.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
         "China develops a credible domestic EUV alternative — assessed as a 5-10 year horizon risk, not near-term",
         "Semiconductor capex supercycle ends and fab customers cancel or significantly delay EUV orders at scale",
-        "Dutch or US government export restrictions expand materially beyond current ASML guidance, causing revenue guidance to be cut",
-        "Post-Q1 2026: management signals materially weaker forward demand or order intake concerns in subsequent quarters"
+        "Dutch or US government export restrictions expand materially beyond current ASML guidance, causing revenue guidance to be CUT (not merely compressed China mix)",
+        "Post-Q1 2026: management signals materially weaker forward demand or China mix falls below 15% of net sales with no offsetting guidance raise"
       ]
     },
     {
@@ -86,11 +94,13 @@
       "buy_date": "2026-04-03",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0% (portfolio interest exemption via Irish fund)",
-      "thesis": "Cash equivalent / capital preservation layer yielding approximately 4.3% (3-month T-bill rate) with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — a materially superior structure for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). At 13.90% of NAV — near the 15% target. Opportunity cost is rising as the S&P 500 reaches all-time highs (7,022.95 April 15) and the Fed is expected to deliver two rate cuts in 2026. As the rate cut cycle progresses, U03A yield will decline and the opportunity cost vs equities will increase. Flag for gradual trim from 15% toward 10% of NAV as: (1) CSPX gap is closed, (2) Tranche 3 deploys, and (3) Fed rate cuts materialize.",
+      "thesis": "Cash equivalent / capital preservation layer with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — structurally optimal for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). YIELD UPDATE: Weighted average YTM has compressed to 3.68% as of April 13, 2026 — down from the ~4.3% thesis baseline, a 62bps decline reflecting shift in rate expectations. At ~13.89% of total portfolio NAV (14.6% of equity+FI). The opportunity cost vs equities is rising sharply as S&P 500 reaches all-time highs and the Fed is expected to deliver two rate cuts in 2026. FORMALLY INITIATING STAGE-DOWN PLAN: Target reduction from ~14-15% → ~10% of NAV, executed in stages as: (1) CSPX $250 ADD executes and gap narrows; (2) Tranche 3 deploys (May 3 deadline); (3) April 28-29 FOMC provides guidance on rate cut timeline. Do not trim U03A before CSPX gap is meaningfully closed. Thesis conviction: HOLD for now, with a clear exit plan forming.",
+      "last_updated": "2026-04-17",
       "invalidation_conditions": [
-        "Fed cuts rates aggressively (>100bps) — opportunity cost of T-bill equivalent rises significantly vs equities",
+        "Fed cuts rates aggressively (>100bps in 2026) — opportunity cost vs equities rises significantly, accelerate trim",
         "A better WHT-efficient fixed income vehicle with superior risk-adjusted return is identified",
-        "Portfolio NAV grows large enough (>$10K) that maintaining a 15% cash equivalent layer imposes unacceptable drag on long-term returns"
+        "Portfolio NAV grows large enough (>$10K) that maintaining a 15% cash equivalent layer imposes unacceptable drag on long-term returns",
+        "YTM falls below 3.0% — at that point, reduce toward 8-10% of NAV immediately"
       ]
     }
   ]
