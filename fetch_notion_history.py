@@ -126,7 +126,7 @@ def main():
         {
             "sorts": [
                 {
-                    "timestamp": "created_time",
+                    "property": "Date",
                     "direction": "descending",
                 }
             ],
