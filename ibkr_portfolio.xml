@@ -1,6 +1,6 @@
 <FlexQueryResponse queryName="Open Positions (Portfolio)" type="AF">
 <FlexStatements count="1">
-<FlexStatement accountId="U10984667" fromDate="01/01/2026" toDate="17/04/2026" period="YearToDate" whenGenerated="18/04/2026;071900">
+<FlexStatement accountId="U10984667" fromDate="01/01/2026" toDate="17/04/2026" period="YearToDate" whenGenerated="19/04/2026;040918">
 <AccountInformation currency="USD" name="Johny R Gerges" accountCapabilities="Cash" dateOpened="01/02/2024" dateFunded="12/03/2025" dateClosed="" lastTradedDate="17/04/2026" />
 <CashReport>
 <CashReportCurrency fromDate="01/01/2026" toDate="17/04/2026" startingCash="26.693623863" startingCashSec="26.693623863" startingCashCom="0" commissions="-79.92769538" commissionsSec="-79.92769538" commissionsCom="0" depositWithdrawals="2000" depositWithdrawalsSec="2000" depositWithdrawalsCom="0" dividends="11.66" dividendsSec="11.66" dividendsCom="0" withholdingTax="-3.33" withholdingTaxSec="-3.33" withholdingTaxCom="0" otherFees="-4.5" otherFeesSec="-4.5" otherFeesCom="0" endingCash="502.442253466" endingCashSec="502.442253466" endingCashCom="0" endingSettledCash="532.442253466" endingSettledCashSec="532.442253466" endingSettledCashCom="0" slbNetCash="502.442253466" slbNetCashSec="502.442253466" slbNetCashCom="0" slbNetSettledCash="532.442253466" slbNetSettledCashSec="532.442253466" slbNetSettledCashCom="0" />
