@@ -1,61 +1,21 @@
 {
-  "report_date": "2026-04-18",
+  "report_date": "2026-04-20",
   "portfolio_nav": 4315.88,
   "holdings_value": 3813.44,
   "cash_available": 502.44,
   "week_return_pct": 2.13,
-  "vs_sp500_week_pct": -1.16,
-  "market_summary": "S&P 500 closed at 7,041.28 on April 17 — first-ever close above 7,000 (+3.29% for the week April 11-17). A further ~1.3% surge estimated on April 18 on Iran Strait of Hormuz reopening news (~7,133 estimated close, ~+4.63% weekly total). Nasdaq +5.2% for the week, 12th consecutive positive session — longest win streak since 2009. Iran declared Strait of Hormuz completely open on April 17; oil fell ~11%. US naval blockade technically remains in force; ceasefire violated by both sides; no formal peace deal yet. AVGO surged +28% in April 2026 on new AI partnership contracts with Google, Meta, and Anthropic including a 3.5GW compute infrastructure deal.",
-  "macro_themes": "Fed held at 3.50-3.75%; April 28-29 FOMC widely expected to hold (JPMorgan: 'an easy call to stay on hold'). PCE inflation forecast revised UP to 2.7% for 2026. March CPI +3.3% YoY (highest since April 2024) driven by Iran war energy costs; gasoline +18.9% YoY. Expected to peak ~3.6-4% headline in April-May then decline toward 3% by year-end as Hormuz reopening reverses energy prices — sets up H2 2026 rate cut window. Core CPI well-contained at +2.6% YoY. YTD 2026 sector rotation: Energy +21%, Materials +17%, Staples +15%, Industrials +12% outperforming; this specific week saw Nasdaq lead +5.2% on geopolitical risk resolution. Powell succession uncertainty (term expires May 2026) remains a live policy risk. AVGO +28% in April on AI custom silicon demand surge.",
-  "portfolio_health": "Grade: C+ (75/100). NAV $4,315.88, +2.13% week vs S&P 500 +3.29% = underperformance of 1.16pp entirely attributable to 11.6% idle cash drag. The CSPX $250 ADD has now been recommended for EIGHT consecutive reports without execution — this remains the portfolio's singular critical operational failure. All 7 positions are in the green. ASML improved to +4.49% unrealized (up from +0.98% last week at $1,410 vs $1,459.80 now). AMZN at +17.13% is the strongest single-stock position. WHT structure is clean: only $3.33 withheld YTD. YTD since inception (April 4 seed $4,191): +2.98%. Key upcoming catalysts: MA earnings April 23, FOMC April 28-29, AMZN earnings April 29.",
+  "vs_sp500_week_pct": -2.41,
+  "market_summary": "S&P 500 gained +4.54% and Nasdaq +6.84% for the week of April 14-17, 2026, closing at all-time highs (S&P 7,041+). Nasdaq posted its 12th consecutive winning session — longest streak since 2009. CRITICAL NEW DEVELOPMENT: Iran re-closed the Strait of Hormuz as of approximately April 18-19, citing US breaches of trust — reversing the April 17 reopening that drove last week's equity rally. This reintroduces geopolitical risk premiums and materially strengthens the GLD thesis. AVGO surged +28% on AI chip partnerships with Meta (through 2029) and Google (through 2031). Dow gained +1.79% on Friday April 17.",
+  "macro_themes": "Fed held at 3.50-3.75% for second consecutive meeting; FOMC April 28-29 widely expected to hold — JPMorgan now sees NO cuts in 2026 and a potential 25bps hike in Q3 2027 if inflation persists. March 2026 CPI confirmed +3.3% YoY / +0.9% MoM; core CPI +2.6% YoY. April CPI due May 12. Tariff passthrough expected to peak in Q2 2026 — rate cuts deferred to H2 2026 at earliest. Iran Hormuz re-closure is the dominant new macro development: oil supply risk restored, gold safe-haven bid reasserting, inflation expectations re-elevated. YTD 2026 sector rotation: Energy +21-34% YTD, Materials, Industrials leading over Technology — April saw counter-trend tech rally which may reverse with Hormuz re-closure.",
+  "portfolio_health": "Grade: C+ (74/100). NAV $4,315.88. Week return +2.13% vs S&P 500 +4.54% = underperformance of -2.41pp, entirely attributable to 11.6% idle cash drag and CSPX structural underweight (26.2% actual vs ~36% target). CSPX ADD recommended for NINTH consecutive report without execution — singular operational failure of this portfolio. YTD since April 4 seed ($4,191): +2.98% vs CSPX YTD +3.16% — now marginally behind benchmark. All 7 positions positive unrealized. Iran Hormuz re-closure STRENGTHENS GLD thesis and partially restores U03A capital preservation value. ASML China mix fell to 19% (approaching 15% invalidation threshold — WATCH flag). MA earnings date corrected to April 30 (not April 23). WHT YTD: only $3.33 from MA dividend.",
   "positions": [
     {
       "symbol": "CSPX",
       "market_value": 1130.71,
-      "unrealized_pnl_pct": 8.55,
+      "unrealized_pnl_pct": 8.56,
       "wht_exposure": "0%",
       "action": "ADD",
-      "rationale": "26.2% of total NAV vs 36% structural target — 9.8pp underweight. S&P 500 at all-time highs (7,041.28 on April 17). ADD $250 at Monday April 20 open. EIGHTH consecutive report flagging this as CRITICAL. Post-trade weight rises to ~31.8% of NAV; cash falls from 11.6% to ~5.8%."
-    },
-    {
-      "symbol": "AMZN",
-      "market_value": 600.32,
-      "unrealized_pnl_pct": 17.13,
-      "wht_exposure": "0%",
-      "action": "HOLD",
-      "rationale": "Thesis STRONGER. AWS growing 24% (fastest in 13 quarters), AI revenue >$10B annualized, $200B 2026 capex confirmed. Q1 earnings April 29 with 72 analysts at Strong Buy, $291 avg target (+16% upside from $250.56). Do not add pre-earnings at +17% unrealized gain. Post-earnings beat is the sizing review trigger."
-    },
-    {
-      "symbol": "GLD",
-      "market_value": 445.93,
-      "unrealized_pnl_pct": 4.27,
-      "wht_exposure": "0%",
-      "action": "HOLD",
-      "rationale": "Thesis STRONGER. Gold held at $445.93 despite Hormuz opening — lower energy inflation reduces Fed tightening need (gold positive). Institutional targets: JPM $6,300, Goldman $5,400, UBS $5,600. Central bank purchases: 755 tonnes forecast for 2026. 4-week sustained risk-on invalidation clock NOT started — ceasefire fragile, US blockade technically in force, no formal peace deal signed."
-    },
-    {
-      "symbol": "MA",
-      "market_value": 372.42,
-      "unrealized_pnl_pct": 1.57,
-      "wht_exposure": "30% on dividend (immaterial, <$1/yr at current size)",
-      "action": "HOLD",
-      "rationale": "WATCH — earnings report confirmed April 23 (this Wednesday), call April 30. 'Low end of low-double digits' guidance tone and Capital One debit migration are near-term headwinds. ADD $100 if cross-border volume >14% AND VAS growth >20% AND guidance maintained. HOLD if in-line. Evaluate partial exit if miss or guidance cut. Analyst consensus: 35/38 Buy, $655 avg target (+25% upside)."
-    },
-    {
-      "symbol": "NVDA",
-      "market_value": 409.59,
-      "unrealized_pnl_pct": 10.83,
-      "wht_exposure": "0%",
-      "action": "HOLD",
-      "rationale": "Thesis STRONGEST in portfolio. NVDA gained +18-20% over past 10-11 sessions, now at $201.68. Blackwell sold out through mid-2026 (supply-constrained). $1T orders confirmed as actual purchase orders at GTC 2026. Data center revenue +75% YoY, 88% of business. Do not add at elevated levels; reassess on pullback to $180-185. Next catalyst: Q1 FY2027 earnings ~May 20, 2026."
-    },
-    {
-      "symbol": "ASML",
-      "market_value": 253.86,
-      "unrealized_pnl_pct": 4.49,
-      "wht_exposure": "15% Dutch WHT assumed (unconfirmed — verify on next IBKR dividend; may be 30% US NRA)",
-      "action": "HOLD",
-      "rationale": "WATCH — China mix fell to 19% (approaching 15% invalidation threshold). Bipartisan DUV restriction bill in Congress; JPMorgan estimates passage = ~10% EPS pressure. Q1 BEAT with guidance raised to EUR 36-40B. Position improved significantly: +4.49% unrealized (up from +0.98% last week). Too small ($253.86) to trim economically. Monitor Q2 2026 China mix closely."
+      "rationale": "IE-domiciled accumulating ETF — 0% WHT, optimal structure. Thesis STRONGER — S&P 500 at ATH (7,041+), CSPX YTD +3.16%, no invalidation conditions triggered. NINTH consecutive report recommending $250 ADD at Monday April 20 open — unconditional. Post-trade: CSPX rises from 26.2% to ~31.5% of total NAV; cash drops from 11.6% to ~5.8%. Hormuz re-closure may cause brief dip on open — use it as a slightly better entry."
     },
     {
       "symbol": "U03A",
@@ -63,30 +23,67 @@
       "unrealized_pnl_pct": -1.21,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "WHT-efficient cash equivalent functioning as designed at ~3.68% YTM (above 3.0% trim trigger). Stage-down plan active: await FOMC April 28-29. Dovish signal or rate cut indication = initiate first reduction (~$100 U03A redeployed into CSPX), beginning stage-down from 13.9% toward 10% of NAV."
+      "rationale": "IE-domiciled accumulating, 0% WHT via portfolio interest exemption. YTM 3.68% — above 3.0% trim trigger. Capital preservation value partially restored given Iran Hormuz re-closure uncertainty. Stage-down plan (reduce from 13.9% toward 10% of NAV) deferred until FOMC April 28-29. If dovish signal: sell ~$100 U03A and redeploy into CSPX as first stage."
+    },
+    {
+      "symbol": "AMZN",
+      "market_value": 600.32,
+      "unrealized_pnl_pct": 17.12,
+      "wht_exposure": "0%",
+      "action": "HOLD",
+      "rationale": "Thesis STRONGER — AWS AI run rate $15B, $200B 2026 capex (largest in US corporate history), 64 analysts Buy at $281 avg target (+12% upside). Q1 earnings April 29 expected to beat. RSI overbought at 74 — no pre-earnings add warranted. Monitor April 29: AWS growth rate (>20% target), AI revenue disclosure, operating margin."
+    },
+    {
+      "symbol": "GLD",
+      "market_value": 445.93,
+      "unrealized_pnl_pct": 4.27,
+      "wht_exposure": "0%",
+      "action": "HOLD",
+      "rationale": "Thesis STRONGER — Iran re-closed Strait of Hormuz as of April 18-19, citing US breaches of trust. All four GLD invalidation conditions remain untriggered. 4-week risk-on clock has NOT started and is now fully reset. Goldman year-end target $5,400/oz, JPM range $4,000-$6,300. Central bank buying on track for 755 tonnes in 2026. GLD $420 price alert remains active for 25% trim trigger."
+    },
+    {
+      "symbol": "NVDA",
+      "market_value": 409.59,
+      "unrealized_pnl_pct": 10.79,
+      "wht_exposure": "0%",
+      "action": "HOLD",
+      "rationale": "Thesis STRONGEST IN PORTFOLIO — 53 analysts Buy at $276 avg (+37% upside). $500B+ Blackwell/Rubin backlog, Blackwell sold out through mid-2026. Vera Rubin (H2 2026, 10x inference efficiency vs Blackwell) is next catalyst. Q1 FY2027 earnings May 20 — $78B guidance expected with Rubin ramp update. All hyperscaler AI capex confirmed ($200B Amazon, $60B Meta, $50B+ MSFT/GOOGL). Do not add at elevated levels; reassess on $180-185 pullback."
+    },
+    {
+      "symbol": "MA",
+      "market_value": 372.42,
+      "unrealized_pnl_pct": 1.57,
+      "wht_exposure": "30%",
+      "action": "HOLD",
+      "rationale": "Thesis SAME. CRITICAL CORRECTION: earnings confirmed April 30 before open (NOT April 23 as previously stated). Q1 EPS consensus $4.41, revenue $8.25B. Analyst target $655 (+25% upside). Conditional ADD $100 from Tranche 3 on April 30 beat: cross-border volume >14%, VAS >20%, guidance maintained or raised. WHT on dividend immaterial at current size (<$1/year). Capital One migration headwind persists."
+    },
+    {
+      "symbol": "ASML",
+      "market_value": 253.86,
+      "unrealized_pnl_pct": 4.49,
+      "wht_exposure": "15%",
+      "action": "HOLD",
+      "rationale": "Thesis WEAKER — WATCH flag approaching DETERIORATING. China mix fell from 36% to 19% in Q1 — approaching 15% invalidation threshold. Jefferies notes Q1 beat may reflect Chinese pull-forward demand (pre-restriction panic buying), meaning Q2 China revenue could compress further. Jefferies explicitly expects valuation de-rating. DUV restriction bill active in Congress. Stock -5% post-earnings despite beat. Position too small ($253.86) to trim economically at current commissions. Hold until Q2 2026 data — if China mix <15% or DUV bill advances materially, exit full position and redeploy into CSPX/NVDA. WHT verification (15% Dutch treaty vs 30% US NRA) still outstanding."
     }
   ],
-  "rebalancing": "Single highest-priority action: ADD $250 into CSPX at Monday April 20 open (8th consecutive recommendation — non-negotiable). Post-trade: CSPX rises from 26.2% to ~31.8% of NAV; cash drops from 11.6% to ~5.8%. Conditional: ADD $100 MA on April 23 earnings beat (cross-border >14%, VAS >20%, guidance maintained). U03A stage-down begins post-FOMC April 28-29 if dovish — reduce toward 10% of NAV, redeploy into CSPX. All other positions HOLD. No exits warranted.",
-  "cash_strategy": "$502.44 available (11.6% of NAV) — structural drag while S&P 500 is at all-time highs. STEP 1 (Monday April 20): Deploy $250 into CSPX; post-trade cash ~$252. STEP 2 (April 23 conditional): $100 into MA on earnings beat; post-trade cash ~$152. STEP 3 (May 3 hard deadline): Deploy ~$102 remaining into CSPX unconditionally; retain $50 minimum buffer. Cash must not exceed 10% of NAV past May 3 under any circumstances.",
+  "rebalancing": "Single priority action: ADD $250 to CSPX at April 20 Monday open — unconditional, 9th consecutive recommendation. Post-trade: CSPX rises from 26.2% to ~31.5% of NAV; cash drops from 11.6% to ~5.8%. Subsequent steps: (1) conditional +$100 MA on April 30 earnings beat; (2) U03A stage-down -$100 post-FOMC April 28-29 if dovish signal received; (3) unconditional CSPX top-up by May 3 hard deadline with remaining cash. ASML monitored but not trimmed at current size due to commission inefficiency. Decisions driven purely by current thesis strength and market conditions — not anchored to prior report weights.",
+  "cash_strategy": "$502.44 available (11.6% of NAV) — structural drag, not dry powder. STEP 1 (April 20, unconditional): Deploy $250 into CSPX; post-trade cash ~$252. STEP 2 (April 30, conditional): $100 into MA on earnings beat; post-trade cash ~$152. STEP 3 (May 3 hard deadline, unconditional): Deploy ~$102-$152 into CSPX; retain $50 minimum buffer. Cash must not exceed 10% of NAV past May 3. Iran Hormuz re-closure does not override the deployment schedule.",
   "new_opportunities": [
     {
       "symbol": "AVGO",
-      "rationale": "Broadcom surged +28% in April 2026 on new AI partnerships with Google, Meta, and Anthropic (3.5GW compute deal). AI custom silicon leadership, $73B total AI backlog, AI chip revenue expected to double in Q1 2026, networking dominance via VMware. Negligible dividend = 0% effective WHT. Highest-conviction new position candidate — do NOT buy now; wait for NAV > $5,000 and CSPX gap closed.",
+      "rationale": "Broadcom surged +28% in April 2026 on landmark AI chip partnerships with Meta (through 2029) and Google (through 2031) — highest-conviction new position candidate. Custom silicon leadership, VMware networking dominance, $438-480 analyst price targets. Zero effective dividend = 0% WHT. Complements NVDA (custom silicon vs standard GPUs). Gate: NAV > $5,000 AND CSPX gap fully closed. Current NAV $4,315 is below threshold. Post-surge entry at ~$393 is less attractive than original identification; wait for NAV growth or 10-15% AVGO pullback to $340-355 range.",
       "suggested_size": "$300 when NAV > $5,000"
-    },
-    {
-      "symbol": "META",
-      "rationale": "Zero dividend = 0% WHT. $60B 2026 AI capex, Llama ecosystem moat, advertising duopoly with Alphabet, AI-enabled wearables monetization accelerating. Research candidate — not actionable until NAV > $5,000.",
-      "suggested_size": "$200 when NAV > $5,000"
     }
   ],
   "action_items": [
-    "CRITICAL — Monday April 20 open: Buy CSPX $250 (~0.326 shares at ~$766.84). EIGHTH consecutive report. S&P 500 at all-time highs, Hormuz open, risk-on. Non-negotiable — no further deferral.",
-    "URGENT — Wednesday April 23: MA Q1 2026 earnings report. ADD $100 if cross-border volume >14% AND VAS >20% AND guidance maintained. HOLD if in-line. Evaluate partial exit if miss or guidance cut.",
-    "IMPORTANT — April 28-29: FOMC rate decision. Dovish signal = initiate U03A first stage-down (~$100 redeployed into CSPX, beginning reduction from 13.9% toward 10% of NAV).",
-    "IMPORTANT — April 29: AMZN Q1 2026 earnings. Monitor AWS growth rate (must sustain >20%), AI revenue disclosure, operating margin. Beat expected per consensus. Post-beat: revisit sizing if AWS >25% and guidance raised.",
-    "MAY 3 HARD DEADLINE: Deploy remaining Tranche 3 cash (~$102-$152 post-CSPX and MA trades) into CSPX unconditionally. Retain $50 minimum buffer. No extensions.",
-    "ONGOING: Verify ASML WHT on next IBKR dividend statement — 15% Dutch treaty or 30% US NRA. If 30% confirmed, switch to AMS-listed ASML shares (ASML.AS on Euronext Amsterdam).",
-    "WATCH: GLD invalidation timer — formal US-Iran peace deal + Hormuz durably open + 4+ consecutive weeks sustained risk-on before triggering 25% GLD trim into CSPX."
+    "CRITICAL — Monday April 20 open (TODAY): Buy CSPX $250 (~0.326 shares at ~$766.84). NINTH consecutive report. Non-negotiable — no further deferral. Hormuz re-closure may cause brief dip on open; use it as a slightly better entry.",
+    "URGENT — April 28-29 FOMC: Watch rate decision and forward guidance. Dovish signal = initiate U03A first stage-down (~$100 redeployed into CSPX, reducing U03A from 13.9% toward 12% of NAV).",
+    "IMPORTANT — April 29 AMZN Q1 earnings: Monitor AWS growth rate (>20% target), AI revenue disclosure, operating margin. Beat expected. No pre-earnings action required.",
+    "IMPORTANT — April 30 MA Q1 earnings (CORRECTED DATE — not April 23): ADD $100 if cross-border volume >14% AND VAS >20% AND guidance maintained or raised. HOLD if in-line. REDUCE if miss or guidance cut.",
+    "MAY 3 HARD DEADLINE: Deploy all remaining Tranche 3 cash (~$102-$152 post-CSPX and MA trades) into CSPX unconditionally. Retain $50 minimum buffer. No extensions permitted.",
+    "ONGOING — ASML WHT verification: Confirm 15% Dutch treaty or 30% US NRA rate on next IBKR tax document. If 30% confirmed, initiate switch to ASML.AS (Euronext Amsterdam).",
+    "WATCH — ASML China mix: Q2 2026 results are the critical trigger. If China mix <15% of net sales OR DUV restriction bill advances materially in Congress, exit full position and redeploy into CSPX/NVDA.",
+    "WATCH — GLD: Iran Hormuz re-closure (April 18-19) REINFORCES HOLD. 4-week risk-on clock has NOT started and is now fully reset. GLD $420 price alert remains active for 25% trim trigger. All four invalidation conditions remain untriggered.",
+    "NEW DEVELOPMENT — Iran Hormuz re-closure: Monitor closely. If formal peace deal and durable reopening occur, reassess GLD invalidation timeline and accelerate U03A stage-down. Conversely, if conflict escalates, GLD ADD from U03A redeployment becomes higher priority than CSPX."
   ]
 }
