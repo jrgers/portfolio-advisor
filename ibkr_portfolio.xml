@@ -1,9 +1,9 @@
 <FlexQueryResponse queryName="Open Positions (Portfolio)" type="AF">
 <FlexStatements count="1">
-<FlexStatement accountId="U10984667" fromDate="01/01/2026" toDate="21/04/2026" period="YearToDate" whenGenerated="22/04/2026;045052">
+<FlexStatement accountId="U10984667" fromDate="01/01/2026" toDate="21/04/2026" period="YearToDate" whenGenerated="22/04/2026;074424">
 <AccountInformation currency="USD" name="Johny R Gerges" accountCapabilities="Cash" dateOpened="01/02/2024" dateFunded="12/03/2025" dateClosed="" lastTradedDate="21/04/2026" />
 <CashReport>
-<CashReportCurrency fromDate="01/01/2026" toDate="21/04/2026" startingCash="26.693623863" startingCashSec="26.693623863" startingCashCom="0" commissions="-90.04335458" commissionsSec="-90.04335458" commissionsCom="0" depositWithdrawals="2000" depositWithdrawalsSec="2000" depositWithdrawalsCom="0" dividends="11.66" dividendsSec="11.66" dividendsCom="0" withholdingTax="-3.33" withholdingTaxSec="-3.33" withholdingTaxCom="0" otherFees="-4.5" otherFeesSec="-4.5" otherFeesCom="0" endingCash="230.380754266" endingCashSec="230.380754266" endingCashCom="0" endingSettledCash="488.326594266" endingSettledCashSec="488.326594266" endingSettledCashCom="0" slbNetCash="230.380754266" slbNetCashSec="230.380754266" slbNetCashCom="0" slbNetSettledCash="488.326594266" slbNetSettledCashSec="488.326594266" slbNetSettledCashCom="0" />
+<CashReportCurrency fromDate="01/01/2026" toDate="21/04/2026" startingCash="26.693623863" startingCashSec="26.693623863" startingCashCom="0" commissions="-90.04335458" commissionsSec="-90.04335458" commissionsCom="0" depositWithdrawals="2000" depositWithdrawalsSec="2000" depositWithdrawalsCom="0" dividends="11.66" dividendsSec="11.66" dividendsCom="0" withholdingTax="-3.33" withholdingTaxSec="-3.33" withholdingTaxCom="0" otherFees="-4.5" otherFeesSec="-4.5" otherFeesCom="0" endingCash="230.380754266" endingCashSec="230.380754266" endingCashCom="0" />
 </CashReport>
 <OpenPositions>
 <OpenPosition assetCategory="STK" subCategory="COMMON" symbol="AMZN" description="AMAZON.COM INC" listingExchange="NASDAQ" issuerCountryCode="US" multiplier="1" reportDate="21/04/2026" position="2.3959" markPrice="249.91" positionValue="598.76" openPrice="213.936084144" costBasisPrice="213.936084144" costBasisMoney="512.569464" percentOfNAV="14.87" fifoPnlUnrealized="86.190536" side="Long" />
