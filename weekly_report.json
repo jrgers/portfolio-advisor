@@ -1,93 +1,79 @@
 {
-  "report_date": "2026-04-22",
-  "portfolio_nav": 4257.93,
-  "holdings_value": 4027.55,
-  "cash_available": 230.38,
-  "week_return_pct": -1.34,
-  "vs_sp500_week_pct": -1.66,
-  "market_summary": "S&P 500 declined this week: -0.24% Monday (April 20, close 7,109.14) and -0.63% Tuesday (April 21, close 7,064.01), snapping the Nasdaq's record 13-day winning streak. Declines driven by US-Iran ceasefire uncertainty ahead of the April 22 expiry; Trump extended the ceasefire citing Iran's 'seriously fractured government.' Strait of Hormuz remains effectively closed — Iran re-closed April 18-19, and the Iranian parliament is drafting a toll and blocking law for hostile vessels. Brent crude peaked at ~$120/barrel (+55% since war began). IEA: 'largest supply disruption in oil market history.' March CPI confirmed +3.3% YoY / +0.9% MoM (2-year high), driven by gasoline +18.9% YoY to $4.12/gallon; April CPI due May 12 and expected to approach 4.0% YoY. Fed holds at 3.50-3.75%; April 28-29 FOMC overwhelmingly expected to hold. IT sector at 31.9% of S&P 500, recovering with sector rotation out of Energy (YTD +21%) and into Technology accelerating. NVDA Vera Rubin in full production (3.3x speed improvement over Blackwell Ultra), $1T+ combined backlog reaffirmed. AMZN Q1 earnings April 29: BofA raised to $298, KeyBanc to $325.",
-  "macro_themes": "1. IRAN/HORMUZ: Ceasefire extended by Trump today (April 22) but structurally fragile — Iranian parliament drafting toll/blocking bill, Hormuz effectively still closed, IEA 'largest supply disruption in history'. Gold and capital preservation remain bid. 2. INFLATION: March CPI +3.3% YoY peak; April expected to approach 4.0% YoY due to continued energy pass-through ($4.12/gallon gasoline). Core CPI contained at 2.6%. Fed pinned at 3.50-3.75% — JPM sees no cuts 2026, possible 25bps hike Q3 2027. 3. AI CAPEX SUPERCYCLE: NVDA Vera Rubin confirmed in full production (3.3x speed over Blackwell Ultra), $1T+ combined Blackwell and Vera Rubin backlog reaffirmed. New risk: 500K-unit Rubin GPU shortfall due to HBM supply constraints — near-term headwind, not thesis invalidation. Hyperscalers $600B+ AI capex 2026. AVGO AI revenue +106% to $8.4B; custom silicon partnerships with Meta through 2029 and Alphabet through 2031. 4. GOLD: GLD WATCH — softened from $442.09 to $429.57 (-2.83%), narrowing buffer above $420 trim trigger to only 2.3% (down from 5.3%). Institutional targets intact: Goldman $5,400, JPM $6,000-$6,300, Wells Fargo $6,100-$6,300. Central banks 850 tonnes forecast 2026. Macro pillars intact but price action requires daily monitoring. 5. SECTOR ROTATION: Energy momentum fading after Hormuz-driven surge; capital rotating into Technology and Cyclicals. IT is the primary beneficiary. Q1 2026 earnings validate pro-cyclical tilt favoring IT and Financials.",
-  "portfolio_health": "Grade: C+ (75/100). NAV $4,257.93 (April 21 XML data, generated April 22). Week return -1.34% vs S&P 500 +0.32% (April 17 close 7,041.28 to April 21 close 7,064.01) = -1.66pp underperformance, driven by GLD price softening (-2.83% from April 20), commission drag from CSPX add April 20, and MA/U03A mark-to-market. YTD from April 4 seed ($4,191.00): +1.60% (down from +2.98% as of April 20 report). CRITICAL OPERATIONAL DEFICIT: ASML exit recommended for 3 consecutive reports and still unexecuted — position at $253.71 (6.30% of holdings NAV) with all DETERIORATING invalidation conditions simultaneously confirmed: China mix 36%->19%, MATCH Act advancing (JPM: -10% EPS), stock -6% on Q1 beat. NEW WATCH: GLD at $429.57 is only 2.3% above the $420 trim trigger — requires daily monitoring. AMZN (+16.83% unrealized) and NVDA (+9.84%) carry STRONGER thesis flags with earnings catalysts April 29 and May 20 respectively. WHT structure remains excellent: 5 of 7 positions at 0% effective WHT, MA drag <$4/year.",
+  "report_date": "2026-04-23",
+  "portfolio_nav": 4288.17,
+  "holdings_value": 3953.77,
+  "cash_available": 334.40,
+  "week_return_pct": -0.08,
+  "vs_sp500_week_pct": -1.12,
+  "market_summary": "S&P 500 hit a fresh all-time record close of 7,137.90 on April 22 (+1.04% from April 21 close of 7,064.01), driven by Trump indefinitely extending the Iran ceasefire and strong Q1 earnings beats (3 of 4 S&P 500 companies exceeding expectations). Nasdaq gained +1.64% to 24,657.57 — tech reclaiming leadership. However, Iran simultaneously attacked 3 commercial ships in the Strait of Hormuz on April 22 hours after the ceasefire extension, exposing the fragile nature of the geopolitical situation. The 'Great Rotation' out of tech appears to be reversing — CNBC headlined 'The much-hyped great rotation out of tech for 2026 may be over already' on April 22. MILESTONE this week: ASML exit successfully executed and ~$150 of proceeds redeployed into CSPX, resolving the multi-report structural underweight.",
+  "macro_themes": "1. IRAN/HORMUZ (DOMINANT): Ceasefire indefinitely extended by Trump on April 22, but Iran attacked 3 commercial ships the same day. Hormuz remains effectively closed with $1M+ tolls per vessel; US naval blockade continues. GLD 4-week risk-on clock has NOT started — Iran's continued ship attacks confirm the conflict is not resolved. Goldman Sachs projects Brent at ~$80/barrel year-end (~$20 above pre-war baseline). 2. INFLATION: March 2026 CPI +3.3% YoY / +0.9% MoM — peak driven by Iran war energy costs, gasoline +18.9% YoY. Core CPI +2.6% YoY. April CPI due May 12, expected to peak near 4% before declining toward 3% if Hormuz resolves. 3. FED: Rates held at 3.50-3.75%; April 28-29 FOMC described as 'an easy call' to hold. JPMorgan forecasts no cuts in 2026. U03A stage-down trigger contingent on dovish FOMC signal — unlikely to fire given JPM hawkish outlook. 4. AI CAPEX SUPERCYCLE: NVDA confirmed $1T+ Blackwell + Vera Rubin backlog through 2027 (doubled in one year). AMZN Q1 earnings on April 29 — AWS growth expected to accelerate to 28-30%. NVDA up 18% in 10 days. 5. SECTOR ROTATION: Tech reclaiming leadership from Energy. 'Great Rotation' into value/energy appears to be reversing. IT, Financials, Materials showing pro-cyclical earnings support. 6. TARIFFS: 90-day pause on elevated tariff rates (ex-China 125%) continues with no new escalation this week.",
+  "portfolio_health": "Grade: B (80/100). NAV $4,288.17. Week return -0.08% vs S&P 500 +1.04% = -1.12pp underperformance — entirely attributable to transaction costs from ASML exit + CSPX add commissions (~$8-12 friction); underlying position performance was positive (+~$30 from price appreciation). MILESTONE: ASML exit executed and ~$150 of proceeds redeployed into CSPX. CSPX now at 38.70% of holdings NAV (35.68% of total NAV) — at/above the 36% holdings target for the first time. YTD from April 4 seed ($4,191.00): +2.32%. WHT YTD: $3.33 withheld (MA dividend only) — excellent overall structure. Key upcoming catalysts: FOMC April 28-29, AMZN earnings April 29, MA earnings April 30, May 3 cash deployment hard deadline. GLD on WATCH (3.6% buffer above $420 trim trigger, improved from 2.3% at April 21 close). NVDA STRONGEST position — up 18% in 10 days.",
   "positions": [
     {
-      "symbol": "AMZN",
-      "market_value": 598.76,
-      "unrealized_pnl_pct": 16.83,
+      "symbol": "CSPX",
+      "market_value": 1530.14,
+      "unrealized_pnl_pct": 5.9,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "42 analyst Buys / 3 Holds; BofA raised to $298, KeyBanc to $325, TD Cowen $300 — average target $286.23 (+15.3% upside from current $249.91). AWS expected at 28% YoY with $1.3B Anthropic contribution. Q1 earnings April 29 are the key decision point; with RSI elevated and +16.83% unrealized gain, no pre-earnings add warranted. Review $50-75 add post-April 29 if AWS >25% AND EBIT >$20B AND raised guidance."
+      "rationale": "CSPX has crossed the 36% holdings target (now 38.70% of holdings NAV, 35.68% of total NAV) following the ASML exit and redeployment. S&P 500 at fresh records and tech rotation returning to leadership reinforce the core anchor thesis. Remaining cash (~$234 post-MA conditional add) to be deployed here by May 3 hard deadline. IE-domiciled accumulating structure remains optimal for WHT purposes. No urgency to add beyond the May 3 deployment."
     },
     {
-      "symbol": "ASML",
-      "market_value": 253.71,
-      "unrealized_pnl_pct": 4.42,
-      "wht_exposure": "15% (Dutch WHT, unverified — moot on exit)",
-      "action": "EXIT",
-      "rationale": "All DETERIORATING invalidation conditions simultaneously confirmed for 3rd consecutive report: China mix 36%->19% in one quarter (approaching 15% threshold by Q2 2026 results ~July); MATCH Act bipartisan DUV bill advancing — JPM warns -10% EPS if enacted, would also block maintenance services; stock fell 6% on Q1 beat (EUR 8.8B vs EUR 8.5B) and guidance raise (EUR 36-40B). Market is pre-pricing the multiple de-rating with no bounce. Full exit of 0.1739 shares at market — immediately."
-    },
-    {
-      "symbol": "CSPX",
-      "market_value": 1373.54,
-      "unrealized_pnl_pct": 6.21,
+      "symbol": "AMZN",
+      "market_value": 611.82,
+      "unrealized_pnl_pct": 19.37,
       "wht_exposure": "0%",
-      "action": "ADD",
-      "rationale": "STRONGER thesis flag; 0% WHT IE-domiciled accumulating ETF is the most optimal capital vehicle available. Currently 34.10% of holdings NAV vs 36% target — gap of ~$76-83. Deploy $150-170 from ASML exit proceeds immediately post-exit. S&P 500 at 7,064, IT sector at 31.9% of index, and tech-led sector rotation supports adding here without hesitation."
+      "action": "HOLD",
+      "rationale": "Q1 2026 earnings on April 29 at 5:30 PM ET. AWS growth expected to accelerate to 28-30% (from 24% in Q4). BofA EBIT estimate $21.4B vs Street $20.7B. Trainium custom silicon at >$10B run rate growing triple-digit YoY. 42 Buys / 3 Holds, average target $286.23 (+12.1% from $255.36). Conditional ADD $50-75 post-earnings if AWS >25% AND EBIT >$20B AND Q2 guidance maintained or raised. Pre-earnings RSI elevated — hold current position."
     },
     {
       "symbol": "GLD",
-      "market_value": 429.57,
-      "unrealized_pnl_pct": 0.44,
+      "market_value": 435.26,
+      "unrealized_pnl_pct": 1.77,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "All formal invalidation conditions remain untriggered. Hormuz effectively still closed; Iranian parliament drafting toll and blocking law; Trump extended ceasefire citing Iran's fractured government. Institutional gold targets $5,400-$6,300 year-end (Goldman, JPM, Wells Fargo) intact. Central banks ~850 tonnes forecast 2026. However, GLD softened from $442.09 to $429.57 (-2.83%) — only 2.3% above the $420 invalidation/trim trigger. Hold unconditionally; set $420 daily close alert for 25% trim trigger."
+      "rationale": "Iran attacked 3 commercial ships on April 22 hours after ceasefire extension — Hormuz remains functionally closed. The 4-week risk-on invalidation clock has NOT started. GLD at $435.26, 3.6% above the $420 trim trigger (improved from 2.3% at April 21 close). Goldman $5,400 year-end target; central bank demand ~850T/year; all macro thesis pillars intact. Daily close alert at $420 maintained — trim 25% of position (~$109) if breached and redeploy into CSPX."
     },
     {
       "symbol": "MA",
-      "market_value": 365.31,
-      "unrealized_pnl_pct": -0.37,
-      "wht_exposure": "30% on dividend (immaterial — <$4/year at current position size)",
+      "market_value": 364.46,
+      "unrealized_pnl_pct": -0.6,
+      "wht_exposure": "30% on dividend (confirmed $3.33 withheld YTD — immaterial <$4/year)",
       "action": "HOLD",
-      "rationale": "29 Strong Buy / 4 Moderate Buy / 4 Hold; average target $652.66 (+25.2% upside from $511.35). Q1 earnings April 30 are the decision point: ADD $100 if cross-border volume >14% AND VAS growth >20% AND guidance maintained/raised. Q1 covers Jan-March (pre-peak Iran escalation) so volumes should be clean. Market awaiting volume confirmation before paying premium multiple."
+      "rationale": "Q1 2026 earnings on April 30. Consensus EPS $4.40 (+18% YoY). Market trading below the $520-$600 premium range pending Q1 cross-border volume confirmation. Conditional ADD $100 on April 30 if: cross-border volume >14% AND VAS >20% AND guidance maintained or raised. Average analyst target $652.66 (+27.9% upside from $510.16). Hold ahead of the decisive April 30 catalyst."
     },
     {
       "symbol": "NVDA",
-      "market_value": 405.94,
-      "unrealized_pnl_pct": 9.84,
+      "market_value": 411.26,
+      "unrealized_pnl_pct": 11.28,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "STRONGEST thesis flag: Vera Rubin in full production (3.3x speed improvement over Blackwell Ultra), $1T+ combined backlog reaffirmed by Jensen Huang, hyperscalers $600B+ 2026 AI capex. Q1 FY2027 earnings May 20 at $78.8B consensus. Current price $199.88 is marginally better than last week's $202 elevated level but not yet at $180-185 add target. New risk: 500K-unit Rubin GPU shortfall due to HBM supply constraints — near-term production headwind, not thesis invalidation. Average analyst target ~$270 (+35% upside)."
+      "rationale": "Highest-conviction position — NVDA up 18% in 10 days. $1T+ Blackwell + Vera Rubin backlog through 2027 (doubled in one year). Vera Rubin in production for H2 2026 delivering 10x performance/watt over Grace Blackwell. Next earnings May 27, 2026 (corrected from prior May 20 reference); consensus $1.75 EPS. No add at current elevated levels — original add target was $180-185, now passed. Let position compound through May 27 earnings catalyst."
     },
     {
       "symbol": "U03A",
-      "market_value": 600.72,
-      "unrealized_pnl_pct": -1.20,
+      "market_value": 600.83,
+      "unrealized_pnl_pct": -1.18,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "YTM confirmed at 3.68% (April 13) — above the 3.0% stage-down trigger. Iran uncertainty maintains near-term capital preservation rationale. Stage-down plan: April 28-29 FOMC dovish signal triggers -$100 sale into CSPX (funded from U03A, not cash pool), reducing from 14.92% toward ~12% of NAV. If FOMC holds without dovish signal, maintain full position until next review."
+      "rationale": "Capital preservation layer with YTM 3.68% (above 3.0% trim trigger). Fed expected to hold at April 28-29 FOMC with no dovish signal (JPM forecasts no 2026 cuts). Stage-down of -$100 into CSPX is CONTINGENT on dovish FOMC signal — if hawkish/hold-unchanged, no U03A action. Iran ship attacks on April 22 reinforce near-term capital preservation rationale. If FOMC dovish: immediately trim $100 and redeploy into CSPX."
     }
   ],
-  "rebalancing": "Single highest-priority action: EXIT ASML full position (0.1739 shares, ~$253.71) immediately — recommended for 3 consecutive reports, overdue. Deploy $150-170 of proceeds directly into CSPX to close the 36% NAV target gap. Reserve ~$100 for MA April 30 conditional add and ~$50 minimum cash buffer. Conditional triggers: FOMC April 28-29 (dovish = -$100 U03A into CSPX); AMZN April 29 (strong beat = review $50-75 add from remaining cash); MA April 30 (beat = +$100); May 3 hard deadline (remaining deployable cash unconditionally into CSPX). GLD daily monitoring: close below $420 triggers 25% trim immediately. All decisions driven by current thesis strength flags — not anchored to prior historical weights.",
-  "cash_strategy": "Current cash $230.38 (5.41% of total NAV) is appropriate dry powder. Post-ASML exit: ~$481 total deployable ($230.38 + $253.71 - ~$3 commission). Schedule: (1) $150-170 into CSPX immediately post-ASML exit; (2) $100 reserved for MA April 30 conditional add; (3) $50 minimum buffer retained permanently; (4) Conditional FOMC action April 28-29 funded from U03A sale, not cash pool; (5) Conditional AMZN add $50-75 on strong April 29 beat from remaining cash; (6) May 3 hard deadline — all remaining deployable cash unconditionally into CSPX. Cash must not exceed 8% of NAV post-May 3.",
+  "rebalancing": "ASML exit successfully executed and approximately $150 of proceeds redeployed into CSPX (1.8025 -> 1.9989 shares). CSPX is now at 38.70% of holdings NAV — the multi-report structural underweight has been fully closed. Remaining cash $334.40 (7.80% of NAV) to be deployed as follows: $100 conditional on MA April 30 earnings beat criteria, remaining ~$234 into CSPX by May 3 hard deadline (unconditional). FOMC April 28-29: if dovish, additionally trim U03A -$100 into CSPX (funded from U03A, not cash). NVDA and AMZN both carry STRONGER/STRONGEST thesis flags — no reductions warranted. Portfolio structure is clean with the ASML drag eliminated.",
+  "cash_strategy": "Cash $334.40 (7.80% of NAV) is transitional post-ASML-exit dry powder. Deployment plan: (1) Reserve $100 for conditional MA add on April 30 earnings beat; (2) Deploy remaining ~$234 into CSPX by May 3 hard deadline unconditionally (retain $50 minimum buffer); (3) If FOMC dovish on April 28-29, additionally trim U03A -$100 into CSPX (funded from U03A, not cash). Cash must not exceed 5% of NAV after May 3. If MA add condition not met: deploy full ~$284 into CSPX by May 3.",
   "new_opportunities": [
     {
       "symbol": "AVGO",
-      "rationale": "Broadcom confirmed as dominant custom AI silicon partner — Meta through 2029, Alphabet through 2031. AI semiconductor revenue +106% to $8.4B (43% of sales). CEO guiding >$100B AI chip revenue 2027. $73B AI backlog. EPS growth +66% FY2026, +57% FY2027. Average analyst target $466.23. Zero meaningful WHT. Gated: NAV >$5,000 AND CSPX at 36% AND ASML fully exited. Current NAV $4,258 is $742 below threshold. Wait for gate AND ideally 10-15% pullback from ~$393.",
-      "suggested_size": "$250-300 when NAV >$5,000"
-    },
-    {
-      "symbol": "MU",
-      "rationale": "Micron is the leading US HBM producer — every NVIDIA Blackwell and Vera Rubin GPU requires HBM3e, making MU a direct pick-and-shovel play on the NVDA thesis. The 500K Rubin GPU HBM supply constraint identified this week underscores HBM scarcity, which flows through Micron's revenue and pricing. Negligible dividend = near-0% WHT. Gated: NAV >$5,000 AND 10-15% pullback from current elevated levels.",
-      "suggested_size": "$200-250 when NAV >$5,000 and on 10-15% pullback"
+      "rationale": "Broadcom is the highest-conviction new-position candidate — AI custom silicon leadership (Google TPU, Meta AI accelerator partnerships through 2029-2031), VMware networking dominance, AI chip revenue expected to double in Q1 2026. Negligible dividend = 0% effective WHT. The 'Great Rotation' reversal back to tech makes timing increasingly attractive. Gate: NAV must exceed $5,000 AND CSPX gap fully closed. Current NAV $4,288 is $712 below the threshold.",
+      "suggested_size": "$300 (when NAV > $5,000)"
     }
   ],
   "action_items": [
-    "1. CRITICAL (April 22-23, TODAY): EXIT ASML full position — sell 0.1739 shares at market (~$253.71 gross). Recommended for 3 consecutive reports. DETERIORATING: China mix 36%->19%, MATCH Act advancing (JPM: -10% EPS), stock -6% on Q1 beat. Do not wait.",
-    "2. URGENT (immediately post-ASML exit): Deploy $150-170 into CSPX to close 36% NAV target gap. Single transaction. ASML proceeds fund directly. No further deferral — May 3 hard deadline for all remaining deployable cash.",
-    "3. WATCH DAILY (GLD $420 alert): GLD at $429.57 is only 2.3% above the $420 trim trigger (down from 5.3% buffer last week). Any daily close at or below $420 = immediately sell 25% of GLD position into CSPX. Iran ceasefire extended but structurally fragile.",
-    "4. IMPORTANT (April 28-29, FOMC): Dovish signal or rate cut guidance = sell $100 of U03A, buy CSPX immediately. Hawkish or hold-no-signal = hold U03A in full.",
-    "5. IMPORTANT (April 29, 5:30 PM ET, AMZN Q1 earnings): AWS >25% AND EBIT >$20B AND raised guidance = review $50-75 AMZN add from remaining cash. Miss or AWS below 20% = HOLD/reassess.",
-    "6. IMPORTANT (April 30, MA Q1 earnings): Cross-border volume >14% AND VAS growth >20% AND guidance maintained/raised = ADD $100. In-line = HOLD. Miss or guidance cut = REDUCE/reassess.",
-    "7. MAY 3 HARD DEADLINE: All remaining deployable cash unconditionally into CSPX. Retain $50 minimum buffer. No extensions.",
-    "8. WATCH (May 20, NVDA Q1 FY2027 earnings): Monitor vs $78.8B revenue consensus, Vera Rubin ramp update, HBM supply constraint resolution. Pre-earnings add only on $180-185 pullback."
+    "1. IMMEDIATE WATCH — April 28-29 FOMC: If dovish signal (rate cut window opened or cutting bias expressed), trim U03A -$100 and deploy into CSPX immediately. If hawkish or hold-unchanged: no U03A action.",
+    "2. CRITICAL — April 29 AMZN Q1 earnings (5:30 PM ET): ADD $50-75 post-earnings if AWS growth >25% AND EBIT >$20B AND Q2 guidance maintained or raised. HOLD if in-line. No exit unless severe guide-down.",
+    "3. CRITICAL — April 30 MA Q1 earnings: ADD $100 if cross-border volume >14% AND VAS growth >20% AND guidance maintained or raised. HOLD if in-line. Evaluate partial reduce only on material miss with guide-down.",
+    "4. HARD DEADLINE — May 3: Deploy all remaining deployable cash into CSPX unconditionally. If MA add executed: deploy ~$184; if not: deploy ~$284. Retain $50 minimum buffer. No extensions under any circumstances.",
+    "5. MONITOR — GLD $420 daily close alert: GLD at $435.26, only 3.6% above trim trigger. If daily close below $420: trim 25% of GLD (~$109) and redeploy into CSPX immediately.",
+    "6. WATCH — Iran developments: Iran attacked 3 ships on April 22 despite ceasefire extension. Any formal peace deal + durable Hormuz reopening starts the 4-week GLD invalidation clock. Clock has NOT started.",
+    "7. MONITOR — NVDA May 27 earnings: Q1 FY2027 consensus $1.75 EPS / $78.8B revenue. Watch HBM supply constraint update for Vera Rubin production ramp. NOTE: Earnings date is May 27 (corrected from prior May 20 reference in thesis)."
   ]
 }
