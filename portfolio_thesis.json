@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-23",
   "positions": [
     {
       "symbol": "CSPX",
@@ -7,8 +7,8 @@
       "buy_date": "2026-04-01",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0%",
-      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Portfolio anchor targeting ~36% of holdings NAV. APRIL 22 (WEEK 2) UPDATE: Position at 34.10% of holdings NAV (1.8025 shares, $1,373.54 market value at $762.02/share, +6.21% unrealized). Gap to 36% target: approximately $76-83 on holdings NAV basis. ASML exit proceeds ($150-170) to be deployed here immediately on ASML exit — closes and slightly exceeds the 36% target. S&P 500 at 7,064 (April 21 close); April 20-21 pullback (-0.24%, -0.63%) driven by Iran ceasefire uncertainty. IT sector at 31.9% of S&P 500 weight, recovering strongly as sector rotation out of Energy and into Technology accelerates. $142B AUM, 0.07% TER. Thesis conviction: STRONGER. No structural invalidation conditions triggered.",
-      "last_updated": "2026-04-22",
+      "thesis": "Core broad market exposure to S&P 500. IE-domiciled accumulating structure eliminates 30% WHT on distributions — structurally optimal vehicle for a Lebanese resident. Portfolio anchor targeting ~36% of holdings NAV. APRIL 23 UPDATE: Position at 38.70% of holdings NAV (1.9989 shares, $1,530.14 market value at $765.49/share, +5.90% unrealized). The multi-report structural underweight has been fully closed — ASML exit proceeds (~$150) successfully redeployed here, pushing CSPX above the 36% holdings target for the first time. S&P 500 at fresh all-time record of 7,137.90 on April 22; tech rotation returning to leadership. Remaining deployable cash (~$234 after MA conditional reserve) to be deployed into CSPX by May 3 hard deadline. If FOMC dovish on April 28-29, U03A -$100 stage-down funded into CSPX as well. $142B AUM, 0.07% TER. Thesis conviction: STRONGER. No structural invalidation conditions triggered.",
+      "last_updated": "2026-04-23",
       "invalidation_conditions": [
         "Structural shift away from US equities as the dominant long-term growth engine",
         "A superior WHT-efficient broad market vehicle becomes available"
@@ -20,8 +20,8 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, no dividend",
       "wht_exposure": "0% (no dividend)",
-      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share), advertising revenue at double-digit growth, and AI infrastructure investment (Bedrock, Trainium custom silicon). APRIL 22 (WEEK 2) UPDATE: Current price $249.91 (+16.83% unrealized from $213.94 cost basis). BofA raised target to $298, KeyBanc to $325, TD Cowen reiterating $300. Average target $286.23 (+15.3% upside). AWS growth estimated at 28% YoY for Q1 2026 with $1.3B Anthropic contribution; BofA above Street at 28% vs consensus 25%. Q1 2026 earnings April 29, 2026 at 5:30 PM ET. Street consensus: $1.63 EPS, $177-178B revenue, $20.7B EBIT. 42 analyst Buys vs 3 Holds. RSI elevated — no pre-earnings add warranted. Review ADD $50-75 if April 29 results show AWS >25% AND EBIT above $20B AND Q2 guidance maintained or raised. Thesis conviction: STRONGER.",
-      "last_updated": "2026-04-22",
+      "thesis": "Conviction dip buy entered during Liberation Day tariff shock. Core thesis: AWS cloud dominance (~33% global cloud market share), advertising revenue at double-digit growth, and AI infrastructure investment (Bedrock, Trainium custom silicon). APRIL 23 UPDATE: Current price $255.36 (+19.37% unrealized from $213.94 cost basis). Q1 2026 earnings on April 29, 2026 at 5:30 PM ET. Consensus: $1.62 EPS, $176.98B revenue. BofA above Street: $178.4B revenue, $21.4B EBIT. AWS growth expected to ACCELERATE to 28-30% from Q4's 24% — Trainium custom silicon now at >$10B annual revenue run rate growing triple-digit YoY. BofA target $298 (raised from $275), KeyBanc $325 (raised from $285). Average analyst target $286.23 (+12.1% from current $255.36). 42 Buys / 3 Holds — Strong Buy consensus. RSI elevated — no pre-earnings add warranted. ADD $50-75 post-earnings if: AWS growth >25% AND Q1 EBIT above $20B AND Q2 guidance maintained or raised. Thesis conviction: STRONGER.",
+      "last_updated": "2026-04-23",
       "invalidation_conditions": [
         "AWS loses meaningful cloud market share to Azure or GCP on a sustained basis",
         "Regulatory breakup that separates AWS from the retail/advertising business",
@@ -35,13 +35,13 @@
       "buy_date": null,
       "structure": "US-domiciled gold ETF",
       "wht_exposure": "0% (no income distributions)",
-      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. APRIL 22 (WEEK 2) UPDATE — WATCH FLAG ADDED: GLD at $429.57 (April 21 close), DOWN from $442.09 (April 20 close) — a -2.83% single-day decline that narrows the buffer above the $420 trim trigger to only 2.3% (down from 5.3% in prior report). Daily close alert at $420 required. Despite price softening, all formal macro thesis pillars remain intact: Iran parliament drafting toll/blocking law for hostile vessels at Hormuz; ceasefire extended by Trump citing Iran's 'fractured government' (April 22); nuclear talks fully collapsed; Hormuz effectively still closed. Spot gold ~$4,810-$4,830/oz. Institutional targets UPGRADED: Goldman Sachs $5,400 year-end (reaffirmed); JPMorgan $6,000-$6,300 year-end; Wells Fargo $6,100-$6,300 year-end; Deutsche Bank $6,000 year-end. Central bank demand: ~850 tonnes forecast 2026, PBOC continuing reserve building. 4-week risk-on invalidation clock NOT started — ceasefire extension without formal peace deal does not restart clock. Thesis conviction: SAME (macro pillars intact; price proximity to $420 trigger elevates to WATCH).",
-      "last_updated": "2026-04-22",
+      "thesis": "Macro hedge against dollar weakness, geopolitical risk, and inflationary pressure. Gold has no cash flows so carries zero WHT exposure despite US domicile. APRIL 23 UPDATE — WATCH FLAG MAINTAINED: GLD at $435.26 (April 22 close), up from $429.57 (April 21 close) — partial recovery following ceasefire extension. Buffer above $420 trim trigger improved to 3.6% (from 2.3% at April 21 close). Ceasefire extended indefinitely by Trump on April 22, BUT Iran attacked 3 commercial ships in the Strait of Hormuz the same day — the 4-week risk-on invalidation clock has NOT started. Hormuz remains effectively closed with $1M+ tolls per vessel and US naval blockade continuing. Spot gold ~$4,711/oz as of April 21 (down from ATH $5,595.42 on January 29, 2026 — consolidating, not reversing). Institutional targets: Goldman Sachs $5,400 year-end; JPMorgan $5,000-$6,300 year-end; Wells Fargo $6,100-$6,300 year-end. Central bank demand: ~850 tonnes forecast 2026, PBOC 16 consecutive months of reserve building. Thesis conviction: SAME (macro pillars intact; price proximity to $420 maintains WATCH).",
+      "last_updated": "2026-04-23",
       "invalidation_conditions": [
         "Sustained USD strengthening cycle driven by structurally higher real rates that persist above inflation",
         "Major reversal in central bank gold buying trend (multiple major central banks becoming net sellers)",
-        "GLD breaks and holds below $420 — triggers 25% trim rebalance into CSPX",
-        "Iran war fully and durably resolved AND Strait of Hormuz formally reopened AND risk-on environment maintained for 4+ consecutive weeks — assess 25% trim at that point (4-week clock fully reset as of April 18-19 Hormuz re-closure; ceasefire expiry April 23 does NOT restart the clock without a formal peace deal)"
+        "GLD breaks and holds below $420 — triggers 25% trim rebalance (~$109) into CSPX",
+        "Iran war fully and durably resolved AND Strait of Hormuz formally reopened AND risk-on environment maintained for 4+ consecutive weeks — assess 25% trim at that point (4-week clock NOT started as of April 22; Iran ship attacks confirm Hormuz not durably open)"
       ]
     },
     {
@@ -50,8 +50,8 @@
       "buy_date": "2026-04-01",
       "structure": "US equity, minimal dividend",
       "wht_exposure": "30% WHT on dividend — confirmed $3.33 withheld YTD (MA dividend only). Annualised WHT drag <$4 at current position size. Immaterial.",
-      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. APRIL 22 (WEEK 2) UPDATE: Current price $511.35 (-0.37% unrealized from $513.24 cost basis). 29 Strong Buy / 4 Moderate Buy / 4 Hold; average price target $652.66 (+25.2% upside from current). Earnings EPS estimate $4.40/share (+18% YoY from $3.73). Q1 2026 earnings confirmed April 30, 2026. Q1 covers January-March (pre-peak Iran escalation), so volumes expected clean. Q1 2026 guidance: net revenue growth at low end of low-double digits on a currency-neutral basis (FX tailwind +3.5-4.0pp). Market is trading MA in the $520-$600 range while awaiting Q1 volume confirmation — current $511.35 is below that floor, suggesting slight undervaluation. Key watch metrics for ADD $100 on April 30: cross-border volume must exceed Q4 2025's 14% rate AND VAS growth must sustain above 20% (Q4 exit rate 22%) AND guidance maintained or raised. Stagflation risk from Iran/Hormuz is a medium-term headwind to cross-border but unlikely to show in Q1 data. WHT drag <$4/year at current size — immaterial. Thesis conviction: SAME (pending April 30 data).",
-      "last_updated": "2026-04-22",
+      "thesis": "Conviction dip buy during Liberation Day volatility. Thesis: payments network duopoly (MA + Visa) with near-monopoly economics, asset-light model generating high ROE, global consumer spending volume exposure, and pricing power. APRIL 23 UPDATE: Current price $510.16 (-0.60% unrealized from $513.24 cost basis). 29 Strong Buy / 4 Moderate Buy / 4 Hold; average price target $652.66 (+27.9% upside from current). Earnings EPS estimate $4.40/share (+18% YoY from $3.73). Q1 2026 earnings confirmed April 30, 2026. Q1 covers January-March (pre-peak Iran escalation), so volumes expected clean. Market is trading MA below the '$520-$600 premium range' pending Q1 cross-border volume confirmation — current $510.16 suggests slight undervaluation. Key watch metrics for ADD $100 on April 30: cross-border volume must exceed Q4 2025's 14% rate AND VAS growth must sustain above 20% (Q4 exit rate 22%) AND guidance maintained or raised. WHT drag <$4/year at current size — immaterial. Thesis conviction: SAME (pending April 30 earnings data).",
+      "last_updated": "2026-04-23",
       "invalidation_conditions": [
         "Disintermediation by real-time payment rails (FedNow, open banking) gaining scale at the expense of card networks",
         "Regulatory caps on interchange fees in core US or European markets",
@@ -65,31 +65,14 @@
       "buy_date": null,
       "structure": "US equity, negligible dividend",
       "wht_exposure": "0% (dividend yield <0.1%, negligible WHT impact)",
-      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs. APRIL 22 (WEEK 2) UPDATE: Current price $199.88 (+9.84% unrealized from $181.98 cost basis) — slightly below prior report's $202 'elevated' level, modest improvement in entry dynamics. Vera Rubin confirmed in full production: 3.3x speed improvement over Blackwell Ultra, 4x efficiency gains, H2 2026 shipments on track. Jensen Huang reaffirmed '$1 trillion+' combined Blackwell AND Vera Rubin backlog through 2027. NEW RISK IDENTIFIED: Projected 500,000 unit shortfall in Rubin GPU production due to HBM (High Bandwidth Memory) supply constraints — near-term production headwind but not a thesis invalidation. Monitor at May 20 Q1 FY2027 earnings. Q1 FY2027 consensus: $78.8B revenue, $1.76 EPS. Analyst targets raised to $275-$360 post-GTC 2026; average target ~$270 (+35% upside). Hyperscalers collectively committing $600B+ in 2026 AI capex. Add target: $180-185 pullback only. Thesis conviction: STRONGEST IN PORTFOLIO.",
-      "last_updated": "2026-04-22",
+      "thesis": "AI infrastructure buildout driving unprecedented GPU demand. NVDA holds dominant position in AI training and inference hardware; CUDA ecosystem creates deep switching costs. APRIL 23 UPDATE: Current price $202.50 (+11.28% unrealized from $181.98 cost basis). NVDA up 18% in 10 days — six-month consolidation potentially ending. Vera Rubin confirmed in full production: delivers 10x more performance per watt than Grace Blackwell, H2 2026 shipments on track. CORRECTED EARNINGS DATE: Q1 FY2027 earnings on May 27, 2026 (prior thesis incorrectly stated May 20). Q1 FY2027 consensus: $78.8B revenue, $1.75 EPS. Jensen Huang confirmed $1T+ combined Blackwell AND Vera Rubin backlog through end-2027 — doubled from $500B one year ago. Q4 FY2026: $68.1B revenue (+73% YoY), EPS $1.62 (beat $1.50 estimate by 8%). Average analyst target ~$270 (+33% upside). Hyperscalers collectively committing $600B+ in 2026 AI capex. Near-term risk: ~500K-unit Vera Rubin GPU shortfall due to HBM supply constraints — near-term headwind, not thesis invalidation. Add target: $180-185 pullback only (now passed). Thesis conviction: STRONGEST IN PORTFOLIO.",
+      "last_updated": "2026-04-23",
       "invalidation_conditions": [
         "AMD or custom silicon (Google TPU, Amazon Trainium, Microsoft Maia) takes meaningful and sustained share in AI training workloads",
         "AI capex cycle reverses — hyperscalers visibly cut or guide down infrastructure spend across multiple quarters",
         "Export restrictions to China expand materially beyond current guidance, reducing total addressable market by >15%",
-        "Post-GTC 2026: $1T order backlog proves overstated or a significant portion of orders cancelled in subsequent quarters",
+        "Post-GTC 2026: $1T+ order backlog proves overstated or a significant portion of orders cancelled in subsequent quarters",
         "Vera Rubin production delays extending beyond Q3 2026 — would defer the next re-rating catalyst"
-      ]
-    },
-    {
-      "symbol": "ASML",
-      "name": "ASML Holding NV",
-      "buy_date": null,
-      "structure": "Dutch equity (NASDAQ-listed NY Reg Shs)",
-      "wht_exposure": "15% Dutch WHT assumed (treaty rate). Verification still outstanding. NOW MOOT — FULL EXIT RECOMMENDED AND MAINTAINED.",
-      "thesis": "THESIS FLAG: DETERIORATING — FULL EXIT RECOMMENDED. 3RD CONSECUTIVE REPORT AS OF 2026-04-22. OPERATIONALLY OVERDUE. EUV lithography monopoly remains structurally intact (no credible competitor on a 5-10 year horizon). However, ALL material invalidation conditions are simultaneously materializing and re-confirmed this week: (1) China mix collapsed from 36% (Q4 2025) to 19% (Q1 2026) in a single quarter — on a clear trajectory to breach the 15% invalidation threshold in Q2 2026 results (approximately July 2026). (2) MATCH Act (bipartisan DUV bill) advancing in Congress — would cut off ASML DUV sales AND maintenance services to China; JPMorgan warns -10% EPS impact. (3) Stock fell 6% post-Q1 results despite a beat (EUR 8.8B revenue vs EUR 8.5B consensus, EPS EUR 7.15 vs EUR 6.00) and a full-year guidance raise to EUR 36-40B — market is actively pre-pricing the multiple de-rating with no bounce. Current price $1,458.97 (+4.42% unrealized from $1,397.14 cost basis). Market value $253.71. FULL EXIT REQUIRED (sell 0.1739 shares at market). Redeploy $150-170 into CSPX immediately post-exit; reserve $100 for MA April 30 conditional add; retain $50 buffer. Every day this position is held beyond today (April 22) represents execution risk.",
-      "last_updated": "2026-04-22",
-      "invalidation_conditions": [
-        "China develops a credible domestic EUV alternative — assessed as a 5-10 year horizon risk, not near-term",
-        "Semiconductor capex supercycle ends and fab customers cancel or significantly delay EUV orders at scale",
-        "Dutch or US government export restrictions expand materially beyond current ASML guidance, causing revenue guidance to be CUT (not merely compressed China mix)",
-        "China mix falls below 15% of net sales in Q2 2026 results — APPROACHING THRESHOLD: currently at 19% and declining rapidly (was 36% in Q4 2025)",
-        "US DUV restriction bill passes into law — bipartisan bill NOW ACTIVELY ADVANCING in Congress as of April 2026",
-        "Additional China export restriction threat beyond existing controls — CONFIRMED materializing April 20, 2026"
       ]
     },
     {
@@ -98,8 +81,8 @@
       "buy_date": "2026-04-03",
       "structure": "IE-domiciled accumulating ETF",
       "wht_exposure": "0% (portfolio interest exemption via Irish fund)",
-      "thesis": "Cash equivalent / capital preservation layer with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — structurally optimal for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). APRIL 22 (WEEK 2) UPDATE: Position at 14.92% of holdings NAV (5.6247 shares at $106.80, $600.72 market value, -1.20% unrealized). YTM CONFIRMED at 3.68% (April 13 BlackRock data) — above the 3.0% trim trigger. NAV Total Return YTD: +1.01% (as of April 13). Fed holding at 3.50-3.75%; FOMC April 28-29 overwhelmingly expected to hold (JPM: 'easy call'). JPMorgan forecasts no Fed cuts in 2026 (possible 25bps hike Q3 2027); bond markets price ~50bps easing. Iran ceasefire extended by Trump (April 22) but Hormuz structurally still closed — maintains near-term capital preservation rationale. STAGE-DOWN PLAN ACTIVE: Target reduction from 14.92% toward ~10% of NAV in stages. April 28-29 FOMC is the next trigger: dovish signal (rate cut window mentioned) = first stage-down of ~$100 redeployed into CSPX immediately. Do not trim before FOMC clarity. Thesis conviction: SAME.",
-      "last_updated": "2026-04-22",
+      "thesis": "Cash equivalent / capital preservation layer with 0% effective WHT. Replaced SGOV (which carried 30% WHT on distributions) — structurally optimal for Lebanese residents. US Treasury interest paid to an Irish-domiciled fund qualifies for the portfolio interest exemption from NRA withholding. Near-zero duration risk (0-3M). APRIL 23 UPDATE: Position at 15.20% of holdings NAV (5.6247 shares at $106.82, $600.83 market value, -1.18% unrealized). YTM CONFIRMED at 3.68% (April 13 BlackRock data) — above the 3.0% trim trigger. NAV Total Return YTD: +1.01% (as of April 13). Fed holding at 3.50-3.75%; FOMC April 28-29 expected to hold (JPM: 'easy call'). JPMorgan forecasts NO Fed cuts in 2026 (possible 25bps hike Q3 2027). Iran ship attacks on April 22 despite ceasefire extension reinforce near-term capital preservation rationale. STAGE-DOWN PLAN ACTIVE: Target reduction from 15.20% toward ~10% of NAV in stages. April 28-29 FOMC is the next trigger: dovish signal (rate cut window mentioned explicitly) = first stage-down of ~$100 redeployed into CSPX immediately. Given JPM's hawkish forecast, this trigger is unlikely to fire at April 28-29 meeting. Do not trim before FOMC clarity. Thesis conviction: SAME.",
+      "last_updated": "2026-04-23",
       "invalidation_conditions": [
         "Fed cuts rates aggressively (>100bps in 2026) — opportunity cost vs equities rises significantly, accelerate trim",
         "A better WHT-efficient fixed income vehicle with superior risk-adjusted return is identified",
