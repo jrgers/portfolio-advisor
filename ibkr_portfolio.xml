@@ -1,6 +1,6 @@
 <FlexQueryResponse queryName="Open Positions (Portfolio)" type="AF">
 <FlexStatements count="1">
-<FlexStatement accountId="U10984667" fromDate="01/01/2026" toDate="24/04/2026" period="YearToDate" whenGenerated="25/04/2026;024930">
+<FlexStatement accountId="U10984667" fromDate="01/01/2026" toDate="24/04/2026" period="YearToDate" whenGenerated="26/04/2026;030908">
 <AccountInformation currency="USD" name="Johny R Gerges" accountCapabilities="Cash" dateOpened="01/02/2024" dateFunded="12/03/2025" dateClosed="" lastTradedDate="24/04/2026" />
 <CashReport>
 <CashReportCurrency fromDate="01/01/2026" toDate="24/04/2026" startingCash="26.693623863" startingCashSec="26.693623863" startingCashCom="0" commissions="-99.06570099" commissionsSec="-99.06570099" commissionsCom="0" depositWithdrawals="2000" depositWithdrawalsSec="2000" depositWithdrawalsCom="0" dividends="11.66" dividendsSec="11.66" dividendsCom="0" withholdingTax="-3.33" withholdingTaxSec="-3.33" withholdingTaxCom="0" otherFees="-4.5" otherFeesSec="-4.5" otherFeesCom="0" endingCash="367.086107852" endingCashSec="367.086107852" endingCashCom="0" />
