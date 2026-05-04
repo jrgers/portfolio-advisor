@@ -1,13 +1,13 @@
 {
-  "report_date": "2026-05-03",
+  "report_date": "2026-05-04",
   "portfolio_nav": 4321.08,
   "holdings_value": 4133.94,
   "cash_available": 187.14,
   "week_return_pct": -0.69,
   "vs_sp500_week_pct": -1.59,
-  "market_summary": "S&P 500 gained +0.9% for the week ending May 1, 2026, closing at a record 7,230.12 — its sixth consecutive weekly gain. Nasdaq gained +1.1% to 25,114.44, also a record. Strong Q1 earnings season was the primary driver: AMZN AWS grew 28% (15-quarter high), Google Cloud +28%, advertising sector strong. FOMC held at 3.50-3.75% on April 28-29 but with an unusually dovish 8-4 vote — one dissent for 25bps cut, the most divisions since October 1992. GLD pulled back to $423.18, now only 0.76% above the $420 hard trim trigger. NVDA fell from $208.27 to $198.45 (-4.8%) despite the broader market rally, pulling back from a recent higher peak.",
-  "macro_themes": "1. IRAN/HORMUZ (DOMINANT): Strait of Hormuz remains under dual blockade — US blockading Iranian ports, Iran restricting commercial transit. Ship transits collapsed 95% (130/day to 6/day). IEA confirmed largest supply disruption in global oil market history. GLD 4-week invalidation clock has NOT started — no durable resolution in sight. 2. INFLATION: March 2026 CPI +3.3% YoY / +0.9% MoM, primarily energy-driven (gasoline +18.9% YoY). April 2026 CPI due May 12 — expected to peak near 4% before declining if Hormuz resolves. Core CPI +2.6% YoY. 3. FED: FOMC held at 3.50-3.75% on April 28-29. Dovish surprise: 8-4 vote with one dissent (Governor Miran) for 25bps cut — most dissents since 1992. Next FOMC June 16-17; U03A stage-down plan now more relevant. 4. AI CAPEX SUPERCYCLE: Hyperscalers committed $600B+ in 2026 AI capex. AMZN confirmed $200B FY2026 total capex. AWS 28% growth (15-quarter high). NVDA Vera Rubin in full production. NVDA Q1 FY2027 earnings May 20 is next major catalyst. 5. EARNINGS SEASON: Q1 2026 broadly strong — AMZN massive beat (EPS $2.78 vs $1.64 expected, AWS +28%). MA mixed — beat on EPS/revenue but cross-border volume 13% missed 14% thesis threshold; April cross-border decelerated to 9%. 6. SECTOR ROTATION: Tech and Nasdaq at all-time highs. Energy, Materials, Industrials led YTD. Tech momentum leader but cooling as AI capex ROI payoff questioned.",
-  "portfolio_health": "Grade: B (78/100). Portfolio NAV $4,321.08, down -0.69% week-over-week vs S&P 500 +0.9% = -1.59pp underperformance. YTD from April 4 seed ($4,191.00): +3.10%. Underperformance driven by NVDA pullback (-4.8%), GLD decline (-2.3%), and MA weakness, partially offset by CSPX gains (+1.6%) and AMZN resilience post-earnings. May 3 cash hard deadline met: CSPX $142.09 deployment executed at April 28 open (confirmed by position growth 1.9989 to 2.1843 shares). Cash reduced from $367.09 to $187.14 (4.33% of NAV). Critical alerts: GLD at $423.18 is only $3.18 (0.76%) above the $420 daily close trim trigger — most urgent risk. NVDA earnings May 20 is the highest-conviction near-term catalyst. MA cross-border missed threshold and April trend deteriorated to 9%. WHT structure near-optimal: 5 of 9 holdings at 0% WHT; three WHT-exposed residuals (MO, NLY, SPY) total $6.20 and should be exited.",
+  "market_summary": "S&P 500 closed at a new all-time high of 7,230.12 on May 1 (+0.9% for the week ending May 1); Nasdaq hit 25,114.44 (+1.1%), also a record. April was the best month since 2020. Tech sector is re-asserting leadership with AI monetization entering revenue recognition phase. Strait of Hormuz dual blockade remains fully intact — US blockading Iranian ports, Iran restricting transit; Trump scrapped Islamabad peace talks. GLD 4-week invalidation clock has NOT started. Goldman Sachs raised Brent forecast to $90/barrel by late 2026. FOMC held 3.50-3.75% on April 29 in historic 8-4 vote (most divided since 1992); Governor Miran dissented for 25bps cut. Powell chairmanship ends May 15; Warsh expected to chair June 16-17 FOMC. Markets pricing zero cuts for all of 2026. April CPI due May 12 projected ~3.6% YoY (vs March +3.3%).",
+  "macro_themes": "1. IRAN/HORMUZ (DOMINANT): Dual blockade confirmed — ship transits collapsed 95% (130/day to 6/day). Trump scrapped Islamabad peace talks. GLD macro thesis fully intact; 4-week invalidation clock NOT started. 2. STAGFLATION RISK: March CPI +3.3% YoY; April projected +3.6%; WTI briefly above $110. Fed constrained — markets pricing zero 2026 cuts. Goldman raises Brent to $90 year-end. 3. AI CAPEX SUPERCYCLE: AMZN Q1 validated hyperscaler AI spend — $44.2B quarterly capex, $200B FY2026 total; Bedrock tokens Q1 > all prior years combined; Amazon chips $20B+ annual run rate. NVDA May 20 earnings is next major market catalyst. 4. TECH LEADERSHIP RESTORED: Tech reclaiming sector leadership; Energy pulled back -1.45% this week. AI monetization showing up in earnings (AMZN, Google). Rotation back to growth from value/energy. 5. FED LEADERSHIP TRANSITION: Powell exits May 15; Warsh era begins June 16-17 FOMC — policy uncertainty elevated for H2 2026.",
+  "portfolio_health": "Grade: B (79/100). NAV $4,321.08. Week return -0.69% vs S&P 500 +0.9% = -1.59pp underperformance, primarily driven by NVDA pullback from recent highs and residual cash drag; AMZN Q1 massive beat partially offset. YTD from April 4 seed ($4,191.00): +3.11%. WHT structure near-optimal: 6 of 9 positions carry 0% WHT; MA WHT <$5/year annualized — immaterial; MO/NLY/SPY are WHT-suboptimal residuals totaling $6.20 pending exit. NVDA STRONGEST thesis at +9.06% unrealized with May 20 earnings 16 days away. AMZN STRONGER at +25.40% after massive Q1 beat. GLD WATCH at $423.18 — only $3.18 (0.75%) above $420 hard trim trigger. MA WEAKER — April cross-border +9% YoY is at the DETERIORATING escalation threshold. Cash at 4.33% of NAV is active drag; pending rebalancing actions will deploy capital into highest-conviction NVDA pre-earnings add.",
   "positions": [
     {
       "symbol": "CSPX",
@@ -15,7 +15,7 @@
       "unrealized_pnl_pct": 7.23,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "Core broad-market anchor at 39.42% of NAV. IE-domiciled accumulating structure is structurally optimal for a Lebanese resident. $142.09 deployment executed at April 28 open confirmed (position grew from 1.9989 to 2.1843 shares). S&P 500 at record 7,230 with 6 consecutive weekly gains. No new deployment needed at all-time highs; hold and deploy only on weakness or from rebalancing proceeds. Add $75 from this week's deployable cash to maintain anchor weight."
+      "rationale": "S&P 500 at all-time high 7,230.12; CSPX thesis is STRONGER with no invalidation conditions triggered. Portfolio anchor at 39.42% of NAV; May 3 hard cash deployment deadline confirmed met ($142.09 CSPX add at April 28 open). Small top-up (~$75-80) from MA reduce and exit proceeds appropriate to maintain core weight. No urgent resizing beyond rebalancing inflows."
     },
     {
       "symbol": "AMZN",
@@ -23,7 +23,7 @@
       "unrealized_pnl_pct": 25.40,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "Q1 beat comprehensively: AWS +28% (15-quarter high), EPS $2.78 vs $1.64 expected, advertising +24%, chips exceeded $20B annual run rate. All ADD criteria technically met. However, $200B FY2026 capex and FCF collapse to $1.2B TTM are watchpoints. At current portfolio size, pre-NVDA-earnings add is a better capital deployment than extending AMZN further. Thesis: STRONGER."
+      "rationale": "Q1 2026 massive beat: revenue $181.5B (+17% YoY), EPS $2.78 vs $1.64 consensus, AWS +28% YoY (15-quarter high). Bedrock Q1 tokens exceeded all prior years combined; Amazon chips $20B+ annual run rate at triple-digit growth. All ADD criteria technically met. Capital directed to higher-conviction NVDA pre-May 20 earnings play. FCF compression ($1.2B TTM from $44.2B quarterly capex) is a watch item for sustained 2+ quarter test. Thesis STRONGER."
     },
     {
       "symbol": "GLD",
@@ -31,31 +31,31 @@
       "unrealized_pnl_pct": -1.05,
       "wht_exposure": "0%",
       "action": "HOLD",
-      "rationale": "WATCH — CRITICAL PROXIMITY TO $420 TRIGGER. GLD at $423.18 is only $3.18 (0.76%) above the hard $420 daily close trim trigger. Core macro thesis intact: Hormuz dual blockade (95% transit collapse), inflation elevated, central bank demand ~850 tonnes 2026 forecast. GLD 4-week invalidation clock NOT started. IF any daily close below $420: immediately trim 25% (~$106) into CSPX. No proactive reduction today given Hormuz macro support. Thesis: WEAKER (proximity to trigger)."
+      "rationale": "Hormuz dual blockade intact; peace talks scrapped; 4-week invalidation clock not started. JPMorgan targets $5,000/oz by Q4 2026; Wells Fargo $6,100-6,300/oz year-end; central bank buying ~755T forecast. CPI +3.3% YoY and rising — stagflation backdrop supports gold. However, $420 hard trim trigger is at imminent risk ($3.18 / 0.75% buffer). HOLD unconditionally but set daily $420 close alert — if triggered, immediately trim 25% (~$106) into CSPX with zero discretion. Thesis WEAKER due to price action diverging from intact fundamentals."
     },
     {
       "symbol": "MA",
       "market_value": 353.96,
       "unrealized_pnl_pct": -3.46,
-      "wht_exposure": "30% WHT on dividend (annualized <$5 at current size, immaterial)",
+      "wht_exposure": "30% on dividend",
       "action": "REDUCE",
-      "rationale": "Q1 cross-border volume +13% missed the 14% thesis threshold. April trend deteriorated sharply to 9% cross-border growth; travel cross-border dropped from 8% to 2% YoY — Middle East conflict structurally suppressing highest-margin category. BVNK stablecoin acquisition ($1.5B) introduces capital allocation uncertainty. Reduce by ~$75 to reflect lowered conviction. Proceeds fund NVDA pre-earnings add. Thesis flag: WEAKER. Size change: -$75."
+      "rationale": "Q1 beat on EPS ($4.60 vs $4.41) and revenue ($8.4B, +16% YoY), but cross-border volume +13% missed the 14% ADD threshold. April cross-border decelerated sharply to +9% YoY — at the DETERIORATING escalation threshold identified in the thesis. Travel cross-border dropped from +8% to +2% YoY; management guided Q2 as worst quarter for Iran/Middle East travel headwinds. BVNK stablecoin acquisition ($1.5B) adds capital allocation risk. Reduce by ~$75 (~0.15 shares); proceeds into CSPX. Thesis WEAKER, WATCH flag elevated."
     },
     {
       "symbol": "MO",
       "market_value": 0.62,
       "unrealized_pnl_pct": 2.10,
-      "wht_exposure": "30%",
+      "wht_exposure": "30% on dividend",
       "action": "EXIT",
-      "rationale": "Residual $0.62 position with no thesis, no conviction, and 30% WHT exposure on a high-yield tobacco stock. Exit immediately. Proceeds to cash buffer."
+      "rationale": "No thesis. High-yield tobacco with 30% WHT — structurally adverse for Lebanese resident. Residual $0.62 fragment with no conviction basis. Exit immediately; proceeds to cash buffer."
     },
     {
       "symbol": "NLY",
       "market_value": 5.00,
       "unrealized_pnl_pct": -0.06,
-      "wht_exposure": "30%",
+      "wht_exposure": "30% on distributions",
       "action": "EXIT",
-      "rationale": "Residual REIT position of $5.00 with no thesis on file and 30% WHT on distributions. No conviction basis for holding. Exit immediately. Proceeds to cash buffer."
+      "rationale": "No thesis. Mortgage REIT with mandatory distributions subject to 30% WHT — worst possible structure for a Lebanese resident. Residual $5.00 fragment with no conviction basis. Exit immediately; proceeds to cash buffer."
     },
     {
       "symbol": "NVDA",
@@ -63,15 +63,15 @@
       "unrealized_pnl_pct": 9.06,
       "wht_exposure": "0%",
       "action": "ADD",
-      "rationale": "Highest-conviction pre-earnings add ahead of confirmed May 20 Q1 FY2027 earnings. At $198.45, NVDA trades 23% below analyst consensus targets (~$268) and ~6.5% below recent ATH. Vera Rubin in full production, $1T+ backlog intact, hyperscaler $600B+ AI capex for 2026 confirmed. HBM shortage risk (KeyBanc -25% Rubin units) is a production timing risk, not demand invalidation. Add $150 (approx 0.756 shares) funded by MA reduction + U03A stage-down + deployable cash. Thesis: STRONGEST. Size change: +$150."
+      "rationale": "STRONGEST thesis in portfolio. May 20 earnings confirmed (16 days away); consensus $78.8B revenue / $1.75 EPS. Vera Rubin confirmed in full production for H2 2026 — 3.5x training and 5x inference improvements vs Blackwell (Bernstein: 'a monster'). HBM4 supply reduction from 2M to 1.5M units (25% cut by SK Hynix/Micron delays) is below the 40% invalidation threshold. AMZN $20B+ chip revenue validates AI hardware spend continuation. Average analyst target ~$268 (35%+ upside from $198.45); 38+ analysts Strong Buy. Add $150 pre-earnings funded from U03A stage-down ($75) + available cash ($75)."
     },
     {
       "symbol": "SPY",
       "market_value": 0.58,
       "unrealized_pnl_pct": 0.28,
-      "wht_exposure": "30%",
+      "wht_exposure": "30% on distributions",
       "action": "EXIT",
-      "rationale": "Residual $0.58 US-domiciled S&P 500 ETF — structurally inferior to CSPX for a Lebanese resident (30% WHT on distributions). No reason to hold alongside CSPX. Exit immediately."
+      "rationale": "No thesis. US-domiciled distributing S&P 500 ETF — structurally redundant with CSPX and inferior for a Lebanese resident (30% WHT on distributions vs 0% WHT for CSPX). Residual $0.58 fragment. Exit immediately; proceeds to CSPX."
     },
     {
       "symbol": "U03A",
@@ -79,28 +79,28 @@
       "unrealized_pnl_pct": -1.07,
       "wht_exposure": "0%",
       "action": "REDUCE",
-      "rationale": "First stage-down step per the active plan. FOMC April 28-29 delivered an unusually dovish 8-4 vote (one dissent for 25bps cut) — most divisions since 1992. Rate direction is clearly toward cuts; June 16-17 FOMC is next stage-down trigger review. Trim $75 (~0.70 shares) to reduce from 13.92% to ~12.2% of NAV. YTM 3.67% still above the 3.0% invalidation trigger. Proceeds fund NVDA pre-earnings add. Thesis: SAME. Size change: -$75."
+      "rationale": "First stage-down tranche of $75 (~0.70 shares) is overdue per the May 3 plan. FOMC April 29 8-4 dovish vote (most divided since 1992) accelerates stage-down timeline. YTM 3.67% remains comfortably above 3.0% trim threshold. Proceeds fund NVDA pre-earnings add — highest-conviction capital deployment available. Remaining ~$526 (~4.92 shares) held pending June 16-17 FOMC signal under new Warsh leadership. Target: 10% of NAV through staged reductions. Thesis SAME."
     }
   ],
-  "rebalancing": "Conviction ranking this week: NVDA (STRONGEST, pre-May 20 earnings) > CSPX (STRONGER, record highs) > AMZN (STRONGER, Q1 beat) > U03A (SAME, stage-down active) > GLD (WEAKER, $420 proximity) > MA (WEAKER, cross-border miss + April decel). Rebalancing actions: (1) Reduce MA by ~$75 — cross-border 13% missed 14% threshold, April decel to 9% is a material forward signal. (2) Trim U03A by ~$75 — FOMC 8-4 dovish vote confirms June rate cut risk, accelerates stage-down timeline. (3) Exit residual WHT-exposed positions MO, NLY, SPY (~$6.20 total) — no thesis, pure structural cleanup. (4) Add NVDA ~$150 pre-May 20 earnings — highest-conviction catalyst in near-term. (5) Add CSPX ~$75 from deployable cash — broad-market anchor at record levels. GLD holds unconditionally unless $420 daily close trigger fires.",
-  "cash_strategy": "Cash reduced from $367.09 to $187.14 (4.33% of NAV) this week, confirming April 28 $142.09 CSPX deployment. Post-rebalancing: $187.14 current + $75 MA reduction + $75 U03A trim + $6.20 residual exits = ~$343.34 gross proceeds; minus $150 NVDA add and $75 CSPX add = ~$118 estimated post-trade cash. Target post-trade cash: ~$68 above $50 minimum buffer. This lean cash level is appropriate given two near-term binary events: GLD $420 trigger (can fire any day) and NVDA May 20 earnings. If NVDA disappoints, add to CSPX. If GLD trigger fires, trim proceeds go to CSPX immediately.",
+  "rebalancing": "Conviction-driven capital flows this week: MA reduce (-$75, WEAKER flag) + U03A stage-down (-$75, SAME, freed for NVDA) + MO/NLY/SPY exits (-$6.20, DETERIORATING WHT cleanup) = ~$156.20 freed. Deploy $150 into NVDA (STRONGEST, May 20 catalyst), ~$75-80 into CSPX (from MA proceeds + exit proceeds), retain $50 minimum cash buffer. Net effect: NVDA grows from 9.33% to ~12.7% of NAV; CSPX grows marginally to ~40%; MA shrinks from 8.19% to ~6.43%; U03A shrinks from 13.92% to ~12.2%; MO/NLY/SPY eliminated. Portfolio WHT structure improves to 7 of 9 active positions at 0% WHT.",
+  "cash_strategy": "Cash $187.14 (4.33% of NAV) is active drag at S&P all-time highs. Combined with rebalancing proceeds (~$156.20), total deployable capital is ~$343.34. After NVDA add ($150), CSPX top-up (~$75-80), and minimum buffer ($50), residual cash ~$68 should also be deployed into CSPX. No cash above $50 minimum should remain idle given S&P at all-time highs and two imminent catalysts (April CPI May 12, NVDA earnings May 20).",
   "new_opportunities": [
     {
       "symbol": "AVGO",
-      "rationale": "Broadcom is the highest-conviction new-position candidate. AI custom silicon dominance via Google TPU and Meta AI accelerator partnerships through 2029-2031. Q1 FY2026: revenue +29% YoY, AI revenue +106% YoY, $73B AI backlog targeting $100B in AI chips by 2027. Stock up +26% in 30 days. Q2 guidance: +47% YoY revenue growth. Strong Buy from 30 analysts, average target $443. Zero effective WHT (negligible dividend). Complementary to NVDA (custom XPUs vs standard GPUs). NAV GATE: $5,000 — current NAV $4,321 is $679 below threshold. Do NOT buy yet. Re-evaluate once NAV clears $5,000.",
+      "rationale": "Broadcom is the highest-conviction new-position candidate. AI custom silicon leadership via Google TPU and Meta AI accelerator partnerships through 2029-2031; $73B+ AI backlog; Q1 2026 AI semiconductor revenue +106% YoY to $8.4B; Q2 guidance +47% YoY revenue growth; VMware networking provides durable recurring revenue. 44% Strong Buy / 48% Buy consensus, mean target ~$485. Zero effective WHT (negligible dividend). Complementary to NVDA (custom XPUs vs standard GPUs). Gate: NAV must exceed $5,000 — current NAV $4,321.08 is $678.92 below threshold. Do NOT initiate position yet.",
       "suggested_size": "$300 (when NAV > $5,000)"
     }
   ],
   "action_items": [
-    "1. CRITICAL — GLD $420 trigger (DAILY MONITOR): GLD at $423.18, only $3.18 (0.76%) above hard trim trigger. If any daily close below $420: immediately trim 25% of GLD (~$106) and redeploy into CSPX. Can fire at any time.",
-    "2. URGENT — Reduce MA by ~$75 (sell ~0.151 shares at market): Cross-border 13% missed 14% threshold; April decel to 9%; travel cross-border from 8% to 2%. Thesis: WEAKER. Proceeds fund NVDA add.",
-    "3. URGENT — Trim U03A by ~$75 (sell ~0.70 shares at market): FOMC 8-4 dovish vote confirms stage-down acceleration. First stage-down step per active plan. Proceeds fund NVDA add.",
-    "4. IMPORTANT — Exit MO ($0.62), NLY ($5.00), SPY ($0.58) at market: No thesis, 30% WHT exposure, residual cleanup. Execute this week.",
-    "5. IMPORTANT — Add NVDA ~$150 (buy ~0.756 shares, before May 20 earnings): Funded by MA reduction + U03A trim + deployable cash. Trades 23% below analyst consensus targets. Vera Rubin full production, $78.8B Q1 revenue consensus. CONFIRMED earnings date May 20 (resolves prior May 20 vs May 27 discrepancy).",
-    "6. IMPORTANT — Add CSPX ~$75: Deploy remaining free cash into broad-market anchor at record S&P 500 levels.",
-    "7. CALENDAR — NVDA May 20 Q1 FY2027 earnings: Consensus $78.8B revenue / $1.75 EPS. Watch: Vera Rubin ramp update, HBM supply constraint commentary, hyperscaler demand guidance. Date now confirmed May 20.",
-    "8. CALENDAR — April CPI May 12: Expected ~4% YoY peak. If higher-than-expected: GLD bullish, equities risk-off (use as NVDA/CSPX add opportunity). If lower-than-expected: U03A stage-down accelerates.",
-    "9. WATCH — AVGO NAV gate: Current NAV $4,321 needs +$679 to clear $5,000 threshold. Stock up +26% in 30 days with AI revenue +106% YoY. Re-evaluate for $300 initial position once NAV clears gate.",
-    "10. MONITOR — MA cross-border trend: If Q2 2026 earnings (late July) show cross-border below 10% again, escalate from WATCH to DETERIORATING and consider full exit."
+    "1. CRITICAL — Execute NOW (May 4-5): Add $150 into NVDA at market. May 20 earnings 16 days away. Source: $75 from U03A stage-down + $75 from available cash. Highest-conviction trade in portfolio.",
+    "2. CRITICAL — Execute NOW (May 4-5): Sell ~0.70 shares U03A (~$75) at market. First stage-down tranche. Proceeds fund NVDA add. Reduces U03A from 13.92% toward 10% NAV target.",
+    "3. CRITICAL — Execute NOW (May 4-5): Reduce MA by ~$75 (~0.15 shares at $495.46). April cross-border +9% YoY approaching DETERIORATING escalation trigger. Redeploy proceeds into CSPX.",
+    "4. EXECUTE — This week: Exit MO (0.0083 shares ~$0.62), NLY (0.2192 shares ~$5.00), SPY (0.0008 shares ~$0.58). Total ~$6.20. All carry 30% WHT with no thesis. SPY proceeds into CSPX; NLY/MO into cash buffer.",
+    "5. DEPLOY — After actions 2-4: Redeploy MA reduce proceeds + exit proceeds (~$81.80) into CSPX to maintain core anchor weight.",
+    "6. SET ALERT — GLD $420 daily close: Buffer is only $3.18 (0.75%). If GLD closes at or below $420 on any session, immediately trim 25% of GLD (~$106) into CSPX. Zero discretion permitted.",
+    "7. MONITOR — May 12: April CPI release (projected ~3.6% YoY). If above 3.8%: GLD bullish support, use any equity selloff as NVDA/CSPX add. If below 3.2%: risk-on may pressure GLD toward $420 trigger — be ready to act.",
+    "8. MONITOR — May 20: NVDA Q1 FY2027 earnings after market close. Thesis intact if revenue >=76B and Vera Rubin H2 ramp reaffirmed. Reassess conviction if HBM cuts exceed 40% with explicit Q2 revenue guide-down on the call.",
+    "9. WATCH — MA escalation: Q2 2026 earnings (late July) is the definitive test. If any May/June cross-border data falls below 8% YoY, escalate MA to DETERIORATING and evaluate full exit (~$279 into CSPX).",
+    "10. AVGO gate: NAV must reach $5,000 before initiating $300 position. Current NAV $4,321.08 is $678.92 below threshold. NVDA add + market appreciation could close gap within 4-8 weeks — monitor."
   ]
 }
